@@ -24,6 +24,7 @@ I'm still a college student, lover of tech and science. Lately, the world of Art
 - ⚡ Fun fact: ...
 -->
 
+### 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
