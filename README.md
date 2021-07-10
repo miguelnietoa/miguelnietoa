@@ -1,6 +1,8 @@
 ### Hi there, I'm Miguel Nieto 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/miguelnietoa)
+<a href="https://linkedin.com/in/miguelnietoa" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin badge">
+</a>
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
 <img src="https://i.imgur.com/tbrLrt5.gif" width=400 alt="Coding GIF" align="right"/>
 
