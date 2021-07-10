@@ -21,4 +21,8 @@ I'm still a college student, lover of tech and science. Lately, the world of Art
 - ⚡ Fun fact: ...
 -->
 
+### 📈 My GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=miguelnietoa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" height="180em"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnietoa&layout=compact" height="180em"/> 
+
 
