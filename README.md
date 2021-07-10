@@ -1,9 +1,10 @@
 ### Hi there, I'm Miguel Nieto 👋
 
-<a href="https://linkedin.com/in/miguelnietoa" target="_blank">
+<a href="https://linkedin.com/in/miguelnietoa/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin badge">
 </a>
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) -->
+<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#notavailablenow#) -->
+
 <img src="https://i.imgur.com/tbrLrt5.gif" width=400 alt="Coding GIF" align="right"/>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=miguelnietoa.miguelnietoa)
