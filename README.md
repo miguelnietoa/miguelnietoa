@@ -25,6 +25,9 @@ I'm still a college student, lover of tech and science. Lately, the world of Art
 -->
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 📈 My GitHub Stats:
