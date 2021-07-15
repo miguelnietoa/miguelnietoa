@@ -28,7 +28,8 @@ I have experience with Java, Python and JavaScript.
 ### 📊 This week I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other        1 hr 22 mins    ███████████████████████▓░   94.28 % 
+JavaScript   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 <!--END_SECTION:waka-->
 
