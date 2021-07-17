@@ -13,7 +13,8 @@ I have experience with Java, Python and JavaScript.
 
 
 - 🔭 I’m currently working on web projects but also related to Data Science.
-- 🌱 I’m currently learning Machine Learning foundations
+- 🌱 I’m currently learning Data Science
+- 😄 I just finished a Machine Learning course! 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
@@ -21,7 +22,7 @@ I have experience with Java, Python and JavaScript.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: anietom@uninorte.edu.co / miguelnietoarias3@gmail.com
 <!--
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
