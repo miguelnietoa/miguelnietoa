@@ -20,7 +20,7 @@ I have experience with Java, Python and JavaScript.
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: anietom@uninorte.edu.co / miguelnietoarias3@gmail.com
+- 📫 How to reach me: miguelnietoarias3@gmail.com / anietom@uninorte.edu.co
 <!--
 
 - ⚡ Fun fact: ...
