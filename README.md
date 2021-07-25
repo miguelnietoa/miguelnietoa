@@ -12,7 +12,7 @@
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=miguelnietoa.miguelnietoa)
 <img src="https://github-readme-stats.vercel.app/api?username=miguelnietoa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/> 
 I'm still a college student, lover of tech and science. Lately, the world of Artificial Intelligence (AI) is getting me very excited.
-I have experience with Java, Python and JavaScript.
+I have experience with Python, JavaScript and Java.
 
 
 - 🔭 I’m currently working on web projects but also related to Data Science.
