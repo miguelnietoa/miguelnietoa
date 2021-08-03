@@ -15,8 +15,8 @@ I'm still a college student, lover of tech and science. Lately, the world of Art
 I have experience with Python, JavaScript and Java.
 
 
-- 🔭 I’m currently working on web projects but also related to Data Science.
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on web projects and Data Science
+- 🌱 I’m currently learning Data Mining
 - 😄 I just finished a Machine Learning course! 
 <!-- 
 - 👯 I’m looking to collaborate on ... 
