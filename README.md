@@ -17,8 +17,8 @@ I have experience with Python, JavaScript and Java.
 
 - 🔭 I’m currently working on web projects and Data Science
 - 🌱 I’m currently learning Django and Data Mining 
-- 😄 I just finished a Machine Learning course! 
 <!-- 
+- 😄 I just finished a Machine Learning course! 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 -->
