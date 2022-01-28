@@ -14,8 +14,8 @@
 I'm a Software Developer, lover of tech and science. 
 
 I've worked with the following stacks:\
-➡️ Ruby: Rails, RSpec\
 ➡️ JavaScript: VanillaJS, React, NodeJS, Jest\
+➡️ Ruby: Rails, RSpec\
 ➡️ Python: Pandas, Matplotlib, Plotly, Streamlit
 
 - 🔭 I’m currently working on Web Development
