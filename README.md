@@ -9,7 +9,7 @@
 -->
 
 
-### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=miguelnietoa.miguelnietoa)
+### Glad to see you here! &nbsp; ![visitors](https://visitor-badge-miguelnietoa.glitch.me/badge?page_id=miguelnietoa.miguelnietoa)
 <img src="https://github-readme-stats.vercel.app/api?username=miguelnietoa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/> 
 I'm a Software Developer, lover of tech and science. 
 
