@@ -20,7 +20,7 @@ I've worked with the following stacks:\
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Elixir & Phoenix
-- 👯 I’m looking to collaborate on Open Source projects
+- 👯 I’m looking to contribute on Open Source projects
 <!-- 
 - 😄 I just finished a Machine Learning course! 
 - 🤔 I’m looking for help with ...
