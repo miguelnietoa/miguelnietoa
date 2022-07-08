@@ -14,12 +14,13 @@
 I'm a Software Developer, lover of tech and science. 
 
 I've worked with the following stacks:\
+- Elixir: Phoenix Framework, Umbrella projects
 ➡️ JavaScript: VanillaJS, React, NodeJS, Jest\
-➡️ Ruby: Rails, RSpec\
+➡️ Ruby: Rails, RSpec, HAML\
 ➡️ Python: Pandas, Matplotlib, Plotly, Streamlit
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Elixir & Phoenix
+- 🌱 I’m currently learning about Stellar blockchain
 - 👯 I’m looking to contribute on Open Source projects
 <!-- 
 - 😄 I just finished a Machine Learning course! 
