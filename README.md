@@ -14,7 +14,7 @@
 I'm a Software Developer, lover of tech and science. 
 
 I've worked with the following stacks:\
-- Elixir: Phoenix Framework, Umbrella projects
+➡️ Elixir: Phoenix Framework, Umbrella projects
 ➡️ JavaScript: VanillaJS, React, NodeJS, Jest\
 ➡️ Ruby: Rails, RSpec, HAML\
 ➡️ Python: Pandas, Matplotlib, Plotly, Streamlit
