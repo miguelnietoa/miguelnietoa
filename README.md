@@ -27,4 +27,4 @@ I've worked with the following stacks:\
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: miguelnietoarias3@gmail.com / anietom@uninorte.edu.co
+- 📫 How to reach me: miguelnietoarias3@gmail.com
