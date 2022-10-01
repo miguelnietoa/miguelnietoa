@@ -10,7 +10,7 @@
 
 
 ### Glad to see you here!
-<img src="https://github-readme-stats.vercel.app/api?username=miguelnietoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/> 
+<a href="https://github.com/miguelnietoa"><img src="https://github-readme-stats.vercel.app/api?username=miguelnietoa&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em" align="right"/></a>
 I'm a Software Developer, lover of tech and science. 
 
 I've worked with the following stacks:\
