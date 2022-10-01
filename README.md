@@ -32,4 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#241](https://github.com/kommitters/stellar_sdk/issues/241) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. ❗️ Opened issue [#240](https://github.com/kommitters/stellar_sdk/issues/240) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. ❗️ Opened issue [#239](https://github.com/kommitters/stellar_sdk/issues/239) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. ❗️ Opened issue [#238](https://github.com/kommitters/stellar_sdk/issues/238) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. ❗️ Opened issue [#237](https://github.com/kommitters/stellar_sdk/issues/237) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
