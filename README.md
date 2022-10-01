@@ -1,4 +1,4 @@
-### Hi there, I'm Miguel Nieto 👋
+### Hi there, I'm Miguel 👋
 
 <a href="https://linkedin.com/in/miguelnietoa/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin badge">
@@ -28,3 +28,8 @@ I've worked with the following stacks:\
 -->
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: miguelnietoarias3@gmail.com
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
