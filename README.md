@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#191](https://github.com/kommitters/stellar_base/pull/191) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. ❗️ Opened issue [#190](https://github.com/kommitters/stellar_base/issues/190) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. ❗️ Closed issue [#551](https://github.com/stellar/js-stellar-base/issues/551) in [stellar/js-stellar-base](https://github.com/stellar/js-stellar-base)
-4. 🗣 Commented on [#551](https://github.com/stellar/js-stellar-base/issues/551) in [stellar/js-stellar-base](https://github.com/stellar/js-stellar-base)
-5. ❗️ Opened issue [#241](https://github.com/kommitters/stellar_sdk/issues/241) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 💪 Opened PR [#193](https://github.com/kommitters/stellar_base/pull/193) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 💪 Opened PR [#192](https://github.com/kommitters/stellar_base/pull/192) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 🎉 Merged PR [#191](https://github.com/kommitters/stellar_base/pull/191) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 💪 Opened PR [#191](https://github.com/kommitters/stellar_base/pull/191) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. ❗️ Opened issue [#190](https://github.com/kommitters/stellar_base/issues/190) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
