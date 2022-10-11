@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/miguelnietoa/kadena.ex/pull/1) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-2. 💪 Opened PR [#1](https://github.com/miguelnietoa/kadena.ex/pull/1) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-3. 💪 Opened PR [#71](https://github.com/kommitters/kadena.ex/pull/71) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. ❗️ Closed issue [#223](https://github.com/kommitters/stellar_sdk/issues/223) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. ❗️ Closed issue [#238](https://github.com/kommitters/stellar_sdk/issues/238) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. ❗️ Closed issue [#239](https://github.com/kommitters/stellar_sdk/issues/239) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🎉 Merged PR [#71](https://github.com/kommitters/kadena.ex/pull/71) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 🎉 Merged PR [#1](https://github.com/miguelnietoa/kadena.ex/pull/1) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+4. 💪 Opened PR [#1](https://github.com/miguelnietoa/kadena.ex/pull/1) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+5. 💪 Opened PR [#71](https://github.com/kommitters/kadena.ex/pull/71) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
