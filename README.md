@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#240](https://github.com/kommitters/stellar_sdk/issues/240) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#244](https://github.com/kommitters/stellar_sdk/pull/244) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🎉 Merged PR [#83](https://github.com/kommitters/kadena.ex/pull/83) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 🎉 Merged PR [#85](https://github.com/kommitters/kadena.ex/pull/85) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. ❌ Closed PR [#2](https://github.com/miguelnietoa/kadena.ex/pull/2) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+1. ❗️ Closed issue [#237](https://github.com/kommitters/stellar_sdk/issues/237) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🗣 Commented on [#237](https://github.com/kommitters/stellar_sdk/issues/237) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. ❗️ Closed issue [#241](https://github.com/kommitters/stellar_sdk/issues/241) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🗣 Commented on [#241](https://github.com/kommitters/stellar_sdk/issues/241) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🎉 Merged PR [#247](https://github.com/kommitters/stellar_sdk/pull/247) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
