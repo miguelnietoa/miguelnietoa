@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/miguelnietoa/stellar_sdk/pull/5) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-2. ❌ Closed PR [#4](https://github.com/miguelnietoa/stellar_sdk/pull/4) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-3. ❌ Closed PR [#3](https://github.com/miguelnietoa/stellar_sdk/pull/3) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-4. ❌ Closed PR [#2](https://github.com/miguelnietoa/stellar_sdk/pull/2) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-5. ❌ Closed PR [#1](https://github.com/miguelnietoa/stellar_sdk/pull/1) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+1. 💪 Opened PR [#196](https://github.com/kommitters/stellar_base/pull/196) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🎉 Merged PR [#195](https://github.com/kommitters/stellar_base/pull/195) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 💪 Opened PR [#195](https://github.com/kommitters/stellar_base/pull/195) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🎉 Merged PR [#194](https://github.com/kommitters/stellar_base/pull/194) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 💪 Opened PR [#194](https://github.com/kommitters/stellar_base/pull/194) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
