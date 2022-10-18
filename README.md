@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/kommitters/mintacoin/pull/75) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-2. 💪 Opened PR [#1](https://github.com/SanGeeky/mintacoin/pull/1) in [SanGeeky/mintacoin](https://github.com/SanGeeky/mintacoin)
-3. 🎉 Merged PR [#250](https://github.com/kommitters/stellar_sdk/pull/250) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 💪 Opened PR [#250](https://github.com/kommitters/stellar_sdk/pull/250) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🎉 Merged PR [#249](https://github.com/kommitters/stellar_sdk/pull/249) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. ❌ Closed PR [#5](https://github.com/miguelnietoa/stellar_sdk/pull/5) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+2. ❌ Closed PR [#4](https://github.com/miguelnietoa/stellar_sdk/pull/4) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+3. ❌ Closed PR [#3](https://github.com/miguelnietoa/stellar_sdk/pull/3) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+4. ❌ Closed PR [#2](https://github.com/miguelnietoa/stellar_sdk/pull/2) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+5. ❌ Closed PR [#1](https://github.com/miguelnietoa/stellar_sdk/pull/1) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
 <!--END_SECTION:activity-->
