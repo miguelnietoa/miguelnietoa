@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#253](https://github.com/kommitters/stellar_sdk/pull/253) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 💪 Opened PR [#253](https://github.com/kommitters/stellar_sdk/pull/253) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🎉 Merged PR [#252](https://github.com/kommitters/stellar_sdk/pull/252) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 💪 Opened PR [#252](https://github.com/kommitters/stellar_sdk/pull/252) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🎉 Merged PR [#251](https://github.com/kommitters/stellar_sdk/pull/251) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 💪 Opened PR [#47](https://github.com/stellar/stellar-docs/pull/47) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
+2. 🎉 Merged PR [#61](https://github.com/kommitters/elixir_xdr/pull/61) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+3. 💪 Opened PR [#61](https://github.com/kommitters/elixir_xdr/pull/61) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+4. 🎉 Merged PR [#60](https://github.com/kommitters/elixir_xdr/pull/60) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+5. 💪 Opened PR [#60](https://github.com/kommitters/elixir_xdr/pull/60) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
