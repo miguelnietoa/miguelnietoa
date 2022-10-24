@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#294](https://github.com/parroty/excoveralls/issues/294) in [parroty/excoveralls](https://github.com/parroty/excoveralls)
-2. 💪 Opened PR [#9](https://github.com/miguelnietoa/stellar_sdk/pull/9) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-3. 💪 Opened PR [#48](https://github.com/miguelnietoa/editorjs-toggle-block/pull/48) in [miguelnietoa/editorjs-toggle-block](https://github.com/miguelnietoa/editorjs-toggle-block)
-4. 💪 Opened PR [#47](https://github.com/stellar/stellar-docs/pull/47) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
-5. 🎉 Merged PR [#61](https://github.com/kommitters/elixir_xdr/pull/61) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. 💪 Opened PR [#10](https://github.com/miguelnietoa/stellar_sdk/pull/10) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+2. ❌ Closed PR [#9](https://github.com/miguelnietoa/stellar_sdk/pull/9) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+3. ❗️ Opened issue [#294](https://github.com/parroty/excoveralls/issues/294) in [parroty/excoveralls](https://github.com/parroty/excoveralls)
+4. 💪 Opened PR [#9](https://github.com/miguelnietoa/stellar_sdk/pull/9) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+5. 💪 Opened PR [#48](https://github.com/miguelnietoa/editorjs-toggle-block/pull/48) in [miguelnietoa/editorjs-toggle-block](https://github.com/miguelnietoa/editorjs-toggle-block)
 <!--END_SECTION:activity-->
