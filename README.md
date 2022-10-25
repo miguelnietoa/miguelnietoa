@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/miguelnietoa/elixir_xdr/pull/2) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
-2. ❌ Closed PR [#1](https://github.com/miguelnietoa/elixir_xdr/pull/1) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
-3. 💪 Opened PR [#64](https://github.com/kommitters/elixir_xdr/pull/64) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 🎉 Merged PR [#63](https://github.com/kommitters/elixir_xdr/pull/63) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-5. 💪 Opened PR [#63](https://github.com/kommitters/elixir_xdr/pull/63) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. 💪 Opened PR [#107](https://github.com/kommitters/kadena.ex/pull/107) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 💪 Opened PR [#3](https://github.com/miguelnietoa/kadena.ex/pull/3) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+3. 🎉 Merged PR [#64](https://github.com/kommitters/elixir_xdr/pull/64) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+4. 🎉 Merged PR [#201](https://github.com/kommitters/stellar_base/pull/201) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 💪 Opened PR [#2](https://github.com/miguelnietoa/elixir_xdr/pull/2) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
 <!--END_SECTION:activity-->
