@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/kommitters/kadena.ex/pull/115) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#115](https://github.com/kommitters/kadena.ex/pull/115) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. 🎉 Merged PR [#114](https://github.com/kommitters/kadena.ex/pull/114) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#80](https://github.com/kommitters/editorjs-tooltip/pull/80) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 💪 Opened PR [#114](https://github.com/kommitters/kadena.ex/pull/114) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. 🎉 Merged PR [#81](https://github.com/kommitters/editorjs-tooltip/pull/81) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+2. 💪 Opened PR [#103](https://github.com/kommitters/mintacoin/pull/103) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+3. 💪 Opened PR [#81](https://github.com/kommitters/editorjs-tooltip/pull/81) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 💪 Opened PR [#102](https://github.com/kommitters/mintacoin/pull/102) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+5. 🎉 Merged PR [#101](https://github.com/kommitters/mintacoin/pull/101) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
 <!--END_SECTION:activity-->
