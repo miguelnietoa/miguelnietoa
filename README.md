@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#997](https://github.com/ossf/scorecard-action/issues/997) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
-2. 🎉 Merged PR [#79](https://github.com/kommitters/editorjs-tooltip/pull/79) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 💪 Opened PR [#79](https://github.com/kommitters/editorjs-tooltip/pull/79) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-4. 🎉 Merged PR [#78](https://github.com/kommitters/editorjs-tooltip/pull/78) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 💪 Opened PR [#78](https://github.com/kommitters/editorjs-tooltip/pull/78) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🗣 Commented on [#997](https://github.com/ossf/scorecard-action/issues/997) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+2. ❗️ Opened issue [#997](https://github.com/ossf/scorecard-action/issues/997) in [ossf/scorecard-action](https://github.com/ossf/scorecard-action)
+3. 🎉 Merged PR [#79](https://github.com/kommitters/editorjs-tooltip/pull/79) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 💪 Opened PR [#79](https://github.com/kommitters/editorjs-tooltip/pull/79) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🎉 Merged PR [#78](https://github.com/kommitters/editorjs-tooltip/pull/78) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
