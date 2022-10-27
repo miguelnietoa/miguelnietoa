@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](https://github.com/kommitters/editorjs-tooltip/pull/80) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 💪 Opened PR [#114](https://github.com/kommitters/kadena.ex/pull/114) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. 💪 Opened PR [#113](https://github.com/kommitters/kadena.ex/pull/113) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 🎉 Merged PR [#4](https://github.com/miguelnietoa/kadena.ex/pull/4) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-5. 💪 Opened PR [#4](https://github.com/miguelnietoa/kadena.ex/pull/4) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+1. 🎉 Merged PR [#115](https://github.com/kommitters/kadena.ex/pull/115) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 💪 Opened PR [#115](https://github.com/kommitters/kadena.ex/pull/115) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 🎉 Merged PR [#114](https://github.com/kommitters/kadena.ex/pull/114) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. 💪 Opened PR [#80](https://github.com/kommitters/editorjs-tooltip/pull/80) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 💪 Opened PR [#114](https://github.com/kommitters/kadena.ex/pull/114) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
