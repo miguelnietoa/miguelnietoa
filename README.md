@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/kommitters/editorjs-drag-drop/pull/112) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-2. 💪 Opened PR [#112](https://github.com/kommitters/editorjs-drag-drop/pull/112) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-3. 💪 Opened PR [#163](https://github.com/kommitters/editorjs-undo/pull/163) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🎉 Merged PR [#162](https://github.com/kommitters/editorjs-undo/pull/162) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 💪 Opened PR [#162](https://github.com/kommitters/editorjs-undo/pull/162) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🎉 Merged PR [#93](https://github.com/kommitters/editorjs-inline-image/pull/93) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🎉 Merged PR [#111](https://github.com/kommitters/editorjs-drag-drop/pull/111) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+3. 🎉 Merged PR [#163](https://github.com/kommitters/editorjs-undo/pull/163) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 🎉 Merged PR [#120](https://github.com/kommitters/tickspot.js/pull/120) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+5. 🎉 Merged PR [#94](https://github.com/kommitters/editorjs-inline-image/pull/94) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
