@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/kommitters/editorjs-break-line/pull/47) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-2. 🎉 Merged PR [#82](https://github.com/kommitters/editorjs-tooltip/pull/82) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 💪 Opened PR [#47](https://github.com/kommitters/editorjs-break-line/pull/47) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-4. 💪 Opened PR [#82](https://github.com/kommitters/editorjs-tooltip/pull/82) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 🎉 Merged PR [#81](https://github.com/kommitters/editorjs-tooltip/pull/81) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🎉 Merged PR [#158](https://github.com/kommitters/editorjs-undo/pull/158) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 💪 Opened PR [#158](https://github.com/kommitters/editorjs-undo/pull/158) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🎉 Merged PR [#49](https://github.com/kommitters/editorjs-break-line/pull/49) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+4. 💪 Opened PR [#104](https://github.com/kommitters/mintacoin/pull/104) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+5. 💪 Opened PR [#49](https://github.com/kommitters/editorjs-break-line/pull/49) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
 <!--END_SECTION:activity-->
