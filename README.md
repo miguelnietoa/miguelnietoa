@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/kommitters/editorjs-undo/pull/158) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 💪 Opened PR [#158](https://github.com/kommitters/editorjs-undo/pull/158) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🎉 Merged PR [#49](https://github.com/kommitters/editorjs-break-line/pull/49) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-4. 💪 Opened PR [#104](https://github.com/kommitters/mintacoin/pull/104) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-5. 💪 Opened PR [#49](https://github.com/kommitters/editorjs-break-line/pull/49) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+1. 💪 Opened PR [#93](https://github.com/kommitters/editorjs-inline-image/pull/93) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🎉 Merged PR [#92](https://github.com/kommitters/editorjs-inline-image/pull/92) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+3. 💪 Opened PR [#92](https://github.com/kommitters/editorjs-inline-image/pull/92) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+4. 🎉 Merged PR [#91](https://github.com/kommitters/editorjs-inline-image/pull/91) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+5. 💪 Opened PR [#91](https://github.com/kommitters/editorjs-inline-image/pull/91) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
