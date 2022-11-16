@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#167](https://github.com/kommitters/editorjs-undo/issues/167) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🗣 Commented on [#167](https://github.com/kommitters/editorjs-undo/issues/167) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🎉 Merged PR [#170](https://github.com/kommitters/editorjs-undo/pull/170) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. ❗️ Opened issue [#1672](https://github.com/lemurheavy/coveralls-public/issues/1672) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-5. 💪 Opened PR [#170](https://github.com/kommitters/editorjs-undo/pull/170) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. ❗️ Closed issue [#162](https://github.com/kommitters/editorjs-toggle-block/issues/162) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#162](https://github.com/kommitters/editorjs-toggle-block/issues/162) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🎉 Merged PR [#172](https://github.com/kommitters/editorjs-toggle-block/pull/172) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 💪 Opened PR [#172](https://github.com/kommitters/editorjs-toggle-block/pull/172) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🎉 Merged PR [#171](https://github.com/kommitters/editorjs-toggle-block/pull/171) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
