@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#157](https://github.com/kommitters/editorjs-undo/issues/157) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🗣 Commented on [#157](https://github.com/kommitters/editorjs-undo/issues/157) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🎉 Merged PR [#174](https://github.com/kommitters/editorjs-undo/pull/174) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 💪 Opened PR [#174](https://github.com/kommitters/editorjs-undo/pull/174) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 🎉 Merged PR [#173](https://github.com/kommitters/editorjs-undo/pull/173) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. ❗️ Opened issue [#3](https://github.com/kommitters/soroban-smart-contracts/issues/3) in [kommitters/soroban-smart-contracts](https://github.com/kommitters/soroban-smart-contracts)
+2. ❗️ Closed issue [#157](https://github.com/kommitters/editorjs-undo/issues/157) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🗣 Commented on [#157](https://github.com/kommitters/editorjs-undo/issues/157) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 🎉 Merged PR [#174](https://github.com/kommitters/editorjs-undo/pull/174) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 💪 Opened PR [#174](https://github.com/kommitters/editorjs-undo/pull/174) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
