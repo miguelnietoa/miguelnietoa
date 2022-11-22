@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/kommitters/.template/pull/5) in [kommitters/.template](https://github.com/kommitters/.template)
-2. ❗️ Closed issue [#3](https://github.com/kommitters/soroban_smart_contracts/issues/3) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
-3. 💪 Opened PR [#5](https://github.com/kommitters/.template/pull/5) in [kommitters/.template](https://github.com/kommitters/.template)
-4. 💪 Opened PR [#5](https://github.com/kommitters/soroban_smart_contracts/pull/5) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
-5. ❗️ Opened issue [#3](https://github.com/kommitters/soroban-smart-contracts/issues/3) in [kommitters/soroban-smart-contracts](https://github.com/kommitters/soroban-smart-contracts)
+1. 💪 Opened PR [#7](https://github.com/kommitters/soroban_smart_contracts/pull/7) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+2. 🎉 Merged PR [#5](https://github.com/kommitters/.template/pull/5) in [kommitters/.template](https://github.com/kommitters/.template)
+3. ❗️ Closed issue [#3](https://github.com/kommitters/soroban_smart_contracts/issues/3) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+4. 💪 Opened PR [#5](https://github.com/kommitters/.template/pull/5) in [kommitters/.template](https://github.com/kommitters/.template)
+5. 💪 Opened PR [#5](https://github.com/kommitters/soroban_smart_contracts/pull/5) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
 <!--END_SECTION:activity-->
