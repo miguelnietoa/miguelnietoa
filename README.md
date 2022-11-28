@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/miguelnietoa/kadena.ex/pull/3) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-2. 🗣 Commented on [#1672](https://github.com/lemurheavy/coveralls-public/issues/1672) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-3. 💪 Opened PR [#7](https://github.com/kommitters/soroban_smart_contracts/pull/7) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
-4. 🎉 Merged PR [#5](https://github.com/kommitters/.template/pull/5) in [kommitters/.template](https://github.com/kommitters/.template)
-5. ❗️ Closed issue [#3](https://github.com/kommitters/soroban_smart_contracts/issues/3) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+1. ❗️ Closed issue [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
+2. 🗣 Commented on [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
+3. 💪 Opened PR [#6](https://github.com/miguelnietoa/kadena.ex/pull/6) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+4. 🎉 Merged PR [#5](https://github.com/miguelnietoa/kadena.ex/pull/5) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+5. 💪 Opened PR [#5](https://github.com/miguelnietoa/kadena.ex/pull/5) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
 <!--END_SECTION:activity-->
