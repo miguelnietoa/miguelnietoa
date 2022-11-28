@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
-2. 🗣 Commented on [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
-3. 💪 Opened PR [#6](https://github.com/miguelnietoa/kadena.ex/pull/6) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-4. 🎉 Merged PR [#5](https://github.com/miguelnietoa/kadena.ex/pull/5) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
-5. 💪 Opened PR [#5](https://github.com/miguelnietoa/kadena.ex/pull/5) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+1. 🎉 Merged PR [#6](https://github.com/miguelnietoa/kadena.ex/pull/6) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+2. ❗️ Closed issue [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
+3. 🗣 Commented on [#1](https://github.com/kommitters/okdose-dapp/issues/1) in [kommitters/okdose-dapp](https://github.com/kommitters/okdose-dapp)
+4. 💪 Opened PR [#6](https://github.com/miguelnietoa/kadena.ex/pull/6) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
+5. 🎉 Merged PR [#5](https://github.com/miguelnietoa/kadena.ex/pull/5) in [miguelnietoa/kadena.ex](https://github.com/miguelnietoa/kadena.ex)
 <!--END_SECTION:activity-->
