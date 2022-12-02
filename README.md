@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#152](https://github.com/kommitters/kadena.ex/issues/152) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 🗣 Commented on [#175](https://github.com/kommitters/editorjs-undo/issues/175) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🎉 Merged PR [#148](https://github.com/kommitters/kadena.ex/pull/148) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 🎉 Merged PR [#143](https://github.com/kommitters/kadena.ex/pull/143) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. ❗️ Closed issue [#146](https://github.com/kommitters/kadena.ex/issues/146) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. ❗️ Opened issue [#153](https://github.com/kommitters/kadena.ex/issues/153) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. ❗️ Opened issue [#152](https://github.com/kommitters/kadena.ex/issues/152) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 🗣 Commented on [#175](https://github.com/kommitters/editorjs-undo/issues/175) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 🎉 Merged PR [#148](https://github.com/kommitters/kadena.ex/pull/148) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+5. 🎉 Merged PR [#143](https://github.com/kommitters/kadena.ex/pull/143) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
