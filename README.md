@@ -32,9 +32,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/kommitters/kadena.ex/pull/154) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#154](https://github.com/kommitters/kadena.ex/pull/154) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. 🎉 Merged PR [#98](https://github.com/kommitters/editorjs-inline-image/pull/98) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-4. 🎉 Merged PR [#95](https://github.com/kommitters/editorjs-inline-image/pull/95) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-5. ❗️ Opened issue [#153](https://github.com/kommitters/kadena.ex/issues/153) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. 🎉 Merged PR [#97](https://github.com/kommitters/editorjs-inline-image/pull/97) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🎉 Merged PR [#154](https://github.com/kommitters/kadena.ex/pull/154) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 💪 Opened PR [#154](https://github.com/kommitters/kadena.ex/pull/154) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. 🎉 Merged PR [#98](https://github.com/kommitters/editorjs-inline-image/pull/98) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+5. 🎉 Merged PR [#95](https://github.com/kommitters/editorjs-inline-image/pull/95) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
