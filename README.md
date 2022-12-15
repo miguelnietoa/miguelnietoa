@@ -19,8 +19,8 @@ I've worked with the following stacks:\
 ➡️ Ruby: Rails, RSpec, HAML\
 ➡️ Python: Pandas, Matplotlib, Plotly, Streamlit
 
-- 🔭 I’m currently developing Crypto projects using Stellar
-- 🌱 I’m currently learning about Stellar blockchain
+- 🔭 I’m currently developing blockchain projects
+- 🌱 I’m currently learning about Kadena blockchain
 - 👯 I’m looking to contribute on Open Source projects
 <!-- 
 - 😄 I just finished a Machine Learning course! 
