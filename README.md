@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#179](https://github.com/kommitters/kadena.ex/issues/179) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. ❗️ Opened issue [#178](https://github.com/kommitters/kadena.ex/issues/178) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. ❗️ Closed issue [#144](https://github.com/kommitters/kadena.ex/issues/144) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 🗣 Commented on [#170](https://github.com/kommitters/kadena.ex/issues/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. ❗️ Closed issue [#165](https://github.com/kommitters/kadena.ex/issues/165) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. ❗️ Closed issue [#150](https://github.com/kommitters/kadena.ex/issues/150) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. ❗️ Opened issue [#179](https://github.com/kommitters/kadena.ex/issues/179) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. ❗️ Opened issue [#178](https://github.com/kommitters/kadena.ex/issues/178) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. ❗️ Closed issue [#144](https://github.com/kommitters/kadena.ex/issues/144) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+5. 🗣 Commented on [#170](https://github.com/kommitters/kadena.ex/issues/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
