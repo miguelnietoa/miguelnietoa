@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/kommitters/kadena.ex/issues/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. ❗️ Closed issue [#165](https://github.com/kommitters/kadena.ex/issues/165) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. ❗️ Closed issue [#163](https://github.com/kommitters/kadena.ex/issues/163) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#170](https://github.com/kommitters/kadena.ex/pull/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. 🎉 Merged PR [#166](https://github.com/kommitters/kadena.ex/pull/166) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. ❗️ Closed issue [#144](https://github.com/kommitters/kadena.ex/issues/144) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 🗣 Commented on [#170](https://github.com/kommitters/kadena.ex/issues/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. ❗️ Closed issue [#165](https://github.com/kommitters/kadena.ex/issues/165) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. ❗️ Closed issue [#163](https://github.com/kommitters/kadena.ex/issues/163) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+5. 💪 Opened PR [#170](https://github.com/kommitters/kadena.ex/pull/170) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
