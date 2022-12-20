@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#183](https://github.com/kommitters/kadena.ex/issues/183) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#65](https://github.com/kommitters/elixir_xdr/pull/65) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-3. 💪 Opened PR [#207](https://github.com/kommitters/stellar_base/pull/207) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 💪 Opened PR [#261](https://github.com/kommitters/stellar_sdk/pull/261) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 💪 Opened PR [#182](https://github.com/kommitters/kadena.ex/pull/182) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. 💪 Opened PR [#185](https://github.com/kommitters/kadena.ex/pull/185) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 🎉 Merged PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 💪 Opened PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. ❗️ Closed issue [#97](https://github.com/kommitters/kadena.ex/issues/97) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+5. ❌ Closed PR [#118](https://github.com/kommitters/kadena.ex/pull/118) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
