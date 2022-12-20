@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/kommitters/kadena.ex/pull/185) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#185](https://github.com/kommitters/kadena.ex/pull/185) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. 🎉 Merged PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. ❗️ Closed issue [#97](https://github.com/kommitters/kadena.ex/issues/97) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. 🎉 Merged PR [#261](https://github.com/kommitters/stellar_sdk/pull/261) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🎉 Merged PR [#185](https://github.com/kommitters/kadena.ex/pull/185) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 💪 Opened PR [#185](https://github.com/kommitters/kadena.ex/pull/185) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. 🎉 Merged PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+5. 💪 Opened PR [#184](https://github.com/kommitters/kadena.ex/pull/184) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 <!--END_SECTION:activity-->
