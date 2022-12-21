@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/kommitters/elixir_xdr/pull/67) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-2. 🎉 Merged PR [#66](https://github.com/kommitters/elixir_xdr/pull/66) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-3. 💪 Opened PR [#66](https://github.com/kommitters/elixir_xdr/pull/66) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 🎉 Merged PR [#65](https://github.com/kommitters/elixir_xdr/pull/65) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-5. 💪 Opened PR [#138](https://github.com/kommitters/mintacoin/pull/138) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+1. 🎉 Merged PR [#140](https://github.com/kommitters/mintacoin/pull/140) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+2. 💪 Opened PR [#140](https://github.com/kommitters/mintacoin/pull/140) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+3. 🎉 Merged PR [#139](https://github.com/kommitters/mintacoin/pull/139) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+4. 💪 Opened PR [#139](https://github.com/kommitters/mintacoin/pull/139) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+5. 🎉 Merged PR [#70](https://github.com/kommitters/elixir_xdr/pull/70) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
