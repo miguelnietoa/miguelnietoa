@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2564](https://github.com/ossf/scorecard/issues/2564) in [ossf/scorecard](https://github.com/ossf/scorecard)
-2. 🎉 Merged PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. 💪 Opened PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🎉 Merged PR [#211](https://github.com/kommitters/stellar_base/pull/211) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. ❗️ Opened issue [#1719](https://github.com/step-security/secure-workflows/issues/1719) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+1. ❗️ Opened issue [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+2. ❗️ Opened issue [#2564](https://github.com/ossf/scorecard/issues/2564) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🎉 Merged PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 💪 Opened PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 🎉 Merged PR [#211](https://github.com/kommitters/stellar_base/pull/211) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
