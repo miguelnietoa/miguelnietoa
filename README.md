@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/kommitters/editorjs-inline-image/pull/106) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-2. 💪 Opened PR [#106](https://github.com/kommitters/editorjs-inline-image/pull/106) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-3. 🎉 Merged PR [#105](https://github.com/kommitters/editorjs-inline-image/pull/105) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-4. 💪 Opened PR [#105](https://github.com/kommitters/editorjs-inline-image/pull/105) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-5. 🎉 Merged PR [#104](https://github.com/kommitters/editorjs-inline-image/pull/104) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+1. 🎉 Merged PR [#121](https://github.com/kommitters/editorjs-drag-drop/pull/121) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+2. 💪 Opened PR [#121](https://github.com/kommitters/editorjs-drag-drop/pull/121) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+3. 🎉 Merged PR [#120](https://github.com/kommitters/editorjs-drag-drop/pull/120) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+4. 💪 Opened PR [#120](https://github.com/kommitters/editorjs-drag-drop/pull/120) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+5. 🎉 Merged PR [#119](https://github.com/kommitters/editorjs-drag-drop/pull/119) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
 <!--END_SECTION:activity-->
