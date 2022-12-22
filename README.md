@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
-2. ❗️ Opened issue [#2564](https://github.com/ossf/scorecard/issues/2564) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🎉 Merged PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 💪 Opened PR [#212](https://github.com/kommitters/stellar_base/pull/212) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🎉 Merged PR [#211](https://github.com/kommitters/stellar_base/pull/211) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🎉 Merged PR [#106](https://github.com/kommitters/editorjs-inline-image/pull/106) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 💪 Opened PR [#106](https://github.com/kommitters/editorjs-inline-image/pull/106) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+3. 🎉 Merged PR [#105](https://github.com/kommitters/editorjs-inline-image/pull/105) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+4. 💪 Opened PR [#105](https://github.com/kommitters/editorjs-inline-image/pull/105) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+5. 🎉 Merged PR [#104](https://github.com/kommitters/editorjs-inline-image/pull/104) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
