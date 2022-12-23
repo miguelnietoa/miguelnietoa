@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-2. 💪 Opened PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-3. 🎉 Merged PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 💪 Opened PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-5. 🎉 Merged PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. ❌ Closed PR [#4](https://github.com/miguelnietoa/elixir_xdr/pull/4) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+2. 🗣 Commented on [#2538](https://github.com/ossf/scorecard/issues/2538) in [ossf/scorecard](https://github.com/ossf/scorecard)
+3. 🎉 Merged PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+4. 💪 Opened PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+5. 🎉 Merged PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
