@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/kommitters/editorjs-tooltip/pull/83) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🎉 Merged PR [#183](https://github.com/kommitters/editorjs-undo/pull/183) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 💪 Opened PR [#183](https://github.com/kommitters/editorjs-undo/pull/183) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🎉 Merged PR [#182](https://github.com/kommitters/editorjs-undo/pull/182) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 💪 Opened PR [#182](https://github.com/kommitters/editorjs-undo/pull/182) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🎉 Merged PR [#123](https://github.com/kommitters/tickspot.js/pull/123) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+2. 💪 Opened PR [#123](https://github.com/kommitters/tickspot.js/pull/123) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+3. 🎉 Merged PR [#122](https://github.com/kommitters/tickspot.js/pull/122) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+4. 💪 Opened PR [#122](https://github.com/kommitters/tickspot.js/pull/122) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+5. 🎉 Merged PR [#121](https://github.com/kommitters/tickspot.js/pull/121) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
 <!--END_SECTION:activity-->
