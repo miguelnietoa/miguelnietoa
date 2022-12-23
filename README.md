@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-2. 🎉 Merged PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-3. 💪 Opened PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. ❗️ Closed issue [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
-5. 🗣 Commented on [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+1. 🎉 Merged PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+2. 💪 Opened PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+3. 🎉 Merged PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+4. 💪 Opened PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+5. 🎉 Merged PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
