@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/kommitters/tickspot.js/pull/123) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-2. 💪 Opened PR [#123](https://github.com/kommitters/tickspot.js/pull/123) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-3. 🎉 Merged PR [#122](https://github.com/kommitters/tickspot.js/pull/122) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-4. 💪 Opened PR [#122](https://github.com/kommitters/tickspot.js/pull/122) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-5. 🎉 Merged PR [#121](https://github.com/kommitters/tickspot.js/pull/121) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+1. 💪 Opened PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+2. 🎉 Merged PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+3. 💪 Opened PR [#71](https://github.com/kommitters/elixir_xdr/pull/71) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+4. ❗️ Closed issue [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+5. 🗣 Commented on [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
 <!--END_SECTION:activity-->
