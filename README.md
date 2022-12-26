@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/miguelnietoa/stellar_sdk/pull/16) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-2. ❌ Closed PR [#15](https://github.com/miguelnietoa/stellar_sdk/pull/15) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
-3. 🗣 Commented on [#1718](https://github.com/step-security/secure-workflows/issues/1718) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
-4. 🗣 Commented on [#1719](https://github.com/step-security/secure-workflows/issues/1719) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
-5. ❌ Closed PR [#4](https://github.com/miguelnietoa/elixir_xdr/pull/4) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+1. 🎉 Merged PR [#267](https://github.com/kommitters/stellar_sdk/pull/267) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🗣 Commented on [#267](https://github.com/kommitters/stellar_sdk/issues/267) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🎉 Merged PR [#16](https://github.com/miguelnietoa/stellar_sdk/pull/16) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+4. ❌ Closed PR [#15](https://github.com/miguelnietoa/stellar_sdk/pull/15) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+5. 🗣 Commented on [#1718](https://github.com/step-security/secure-workflows/issues/1718) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
 <!--END_SECTION:activity-->
