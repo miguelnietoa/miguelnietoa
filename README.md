@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/miguelnietoa/elixir_xdr/pull/4) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
-2. 🗣 Commented on [#2538](https://github.com/ossf/scorecard/issues/2538) in [ossf/scorecard](https://github.com/ossf/scorecard)
-3. 🎉 Merged PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 💪 Opened PR [#73](https://github.com/kommitters/elixir_xdr/pull/73) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-5. 🎉 Merged PR [#72](https://github.com/kommitters/elixir_xdr/pull/72) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. ❌ Closed PR [#15](https://github.com/miguelnietoa/stellar_sdk/pull/15) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+2. 🗣 Commented on [#1718](https://github.com/step-security/secure-workflows/issues/1718) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+3. 🗣 Commented on [#1719](https://github.com/step-security/secure-workflows/issues/1719) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+4. ❌ Closed PR [#4](https://github.com/miguelnietoa/elixir_xdr/pull/4) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+5. 🗣 Commented on [#2538](https://github.com/ossf/scorecard/issues/2538) in [ossf/scorecard](https://github.com/ossf/scorecard)
 <!--END_SECTION:activity-->
