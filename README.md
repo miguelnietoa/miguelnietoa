@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#216](https://github.com/kommitters/stellar_base/pull/216) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. 🎉 Merged PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-3. 💪 Opened PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-4. 🎉 Merged PR [#3](https://github.com/miguelnietoa/mintacoin/pull/3) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-5. 💪 Opened PR [#3](https://github.com/miguelnietoa/mintacoin/pull/3) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+1. 🎉 Merged PR [#270](https://github.com/kommitters/stellar_sdk/pull/270) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🎉 Merged PR [#77](https://github.com/kommitters/elixir_xdr/pull/77) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+3. 🎉 Merged PR [#216](https://github.com/kommitters/stellar_base/pull/216) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🎉 Merged PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+5. 💪 Opened PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
 <!--END_SECTION:activity-->
