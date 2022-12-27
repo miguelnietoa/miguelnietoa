@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#144](https://github.com/kommitters/mintacoin/pull/144) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-2. 🎉 Merged PR [#270](https://github.com/kommitters/stellar_sdk/pull/270) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🎉 Merged PR [#77](https://github.com/kommitters/elixir_xdr/pull/77) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 🎉 Merged PR [#216](https://github.com/kommitters/stellar_base/pull/216) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🎉 Merged PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+1. 🎉 Merged PR [#122](https://github.com/kommitters/editorjs-drag-drop/pull/122) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+2. 💪 Opened PR [#123](https://github.com/kommitters/editorjs-drag-drop/pull/123) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+3. 💪 Opened PR [#144](https://github.com/kommitters/mintacoin/pull/144) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+4. 🎉 Merged PR [#270](https://github.com/kommitters/stellar_sdk/pull/270) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🎉 Merged PR [#77](https://github.com/kommitters/elixir_xdr/pull/77) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
