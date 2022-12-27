@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/miguelnietoa/mintacoin/pull/1) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-2. 🎉 Merged PR [#141](https://github.com/kommitters/mintacoin/pull/141) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-3. 🎉 Merged PR [#193](https://github.com/kommitters/kadena.ex/pull/193) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#75](https://github.com/kommitters/elixir_xdr/pull/75) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-5. 🎉 Merged PR [#74](https://github.com/kommitters/elixir_xdr/pull/74) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. 💪 Opened PR [#216](https://github.com/kommitters/stellar_base/pull/216) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🎉 Merged PR [#215](https://github.com/kommitters/stellar_base/pull/215) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 💪 Opened PR [#270](https://github.com/kommitters/stellar_sdk/pull/270) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🎉 Merged PR [#269](https://github.com/kommitters/stellar_sdk/pull/269) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 💪 Opened PR [#77](https://github.com/kommitters/elixir_xdr/pull/77) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
