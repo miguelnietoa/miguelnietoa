@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/kommitters/kadena.ex/pull/196) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#196](https://github.com/kommitters/kadena.ex/pull/196) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. 🎉 Merged PR [#195](https://github.com/kommitters/kadena.ex/pull/195) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#195](https://github.com/kommitters/kadena.ex/pull/195) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. 🎉 Merged PR [#194](https://github.com/kommitters/kadena.ex/pull/194) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+1. 🎉 Merged PR [#216](https://github.com/kommitters/stellar_base/pull/216) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🎉 Merged PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+3. 💪 Opened PR [#4](https://github.com/miguelnietoa/mintacoin/pull/4) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+4. 🎉 Merged PR [#3](https://github.com/miguelnietoa/mintacoin/pull/3) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+5. 💪 Opened PR [#3](https://github.com/miguelnietoa/mintacoin/pull/3) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
 <!--END_SECTION:activity-->
