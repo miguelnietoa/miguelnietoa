@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/kommitters/editorjs-break-line/pull/61) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-2. 💪 Opened PR [#109](https://github.com/kommitters/editorjs-inline-image/pull/109) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-3. 🎉 Merged PR [#107](https://github.com/kommitters/editorjs-inline-image/pull/107) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-4. 💪 Opened PR [#108](https://github.com/kommitters/editorjs-inline-image/pull/108) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-5. 💪 Opened PR [#186](https://github.com/kommitters/editorjs-undo/pull/186) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 💪 Opened PR [#179](https://github.com/kommitters/editorjs-toggle-block/pull/179) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 💪 Opened PR [#126](https://github.com/kommitters/tickspot.js/pull/126) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+3. 🎉 Merged PR [#124](https://github.com/kommitters/tickspot.js/pull/124) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+4. 💪 Opened PR [#125](https://github.com/kommitters/tickspot.js/pull/125) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+5. 💪 Opened PR [#62](https://github.com/kommitters/editorjs-break-line/pull/62) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
 <!--END_SECTION:activity-->
