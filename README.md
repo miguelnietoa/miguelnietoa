@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#184](https://github.com/kommitters/editorjs-undo/pull/184) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🎉 Merged PR [#177](https://github.com/kommitters/editorjs-toggle-block/pull/177) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 💪 Opened PR [#178](https://github.com/kommitters/editorjs-toggle-block/pull/178) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 💪 Opened PR [#90](https://github.com/kommitters/editorjs-tooltip/pull/90) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 🎉 Merged PR [#88](https://github.com/kommitters/editorjs-tooltip/pull/88) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 💪 Opened PR [#61](https://github.com/kommitters/editorjs-break-line/pull/61) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+2. 💪 Opened PR [#109](https://github.com/kommitters/editorjs-inline-image/pull/109) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+3. 🎉 Merged PR [#107](https://github.com/kommitters/editorjs-inline-image/pull/107) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+4. 💪 Opened PR [#108](https://github.com/kommitters/editorjs-inline-image/pull/108) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+5. 💪 Opened PR [#186](https://github.com/kommitters/editorjs-undo/pull/186) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
