@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/kommitters/editorjs-drag-drop/pull/125) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-2. 💪 Opened PR [#125](https://github.com/kommitters/editorjs-drag-drop/pull/125) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-3. 🎉 Merged PR [#124](https://github.com/kommitters/editorjs-drag-drop/pull/124) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-4. 💪 Opened PR [#124](https://github.com/kommitters/editorjs-drag-drop/pull/124) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-5. 🎉 Merged PR [#123](https://github.com/kommitters/editorjs-drag-drop/pull/123) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+1. 🎉 Merged PR [#142](https://github.com/kommitters/mintacoin/pull/142) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+2. 🎉 Merged PR [#125](https://github.com/kommitters/editorjs-drag-drop/pull/125) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+3. 💪 Opened PR [#125](https://github.com/kommitters/editorjs-drag-drop/pull/125) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+4. 🎉 Merged PR [#124](https://github.com/kommitters/editorjs-drag-drop/pull/124) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+5. 💪 Opened PR [#124](https://github.com/kommitters/editorjs-drag-drop/pull/124) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
 <!--END_SECTION:activity-->
