@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/kommitters/mintacoin/pull/146) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-2. 💪 Opened PR [#146](https://github.com/kommitters/mintacoin/pull/146) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-3. 🎉 Merged PR [#145](https://github.com/kommitters/mintacoin/pull/145) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-4. 💪 Opened PR [#145](https://github.com/kommitters/mintacoin/pull/145) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-5. 🎉 Merged PR [#144](https://github.com/kommitters/mintacoin/pull/144) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+1. 🎉 Merged PR [#184](https://github.com/kommitters/editorjs-undo/pull/184) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🎉 Merged PR [#177](https://github.com/kommitters/editorjs-toggle-block/pull/177) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 💪 Opened PR [#178](https://github.com/kommitters/editorjs-toggle-block/pull/178) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 💪 Opened PR [#90](https://github.com/kommitters/editorjs-tooltip/pull/90) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🎉 Merged PR [#88](https://github.com/kommitters/editorjs-tooltip/pull/88) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
