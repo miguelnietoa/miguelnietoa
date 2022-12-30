@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/kommitters/editorjs-break-line/pull/63) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-2. 🎉 Merged PR [#180](https://github.com/kommitters/editorjs-toggle-block/pull/180) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🎉 Merged PR [#127](https://github.com/kommitters/tickspot.js/pull/127) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-4. 🎉 Merged PR [#110](https://github.com/kommitters/editorjs-inline-image/pull/110) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-5. 🎉 Merged PR [#91](https://github.com/kommitters/editorjs-tooltip/pull/91) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🗣 Commented on [#204](https://github.com/kommitters/kadena.ex/issues/204) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 🎉 Merged PR [#63](https://github.com/kommitters/editorjs-break-line/pull/63) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+3. 🎉 Merged PR [#180](https://github.com/kommitters/editorjs-toggle-block/pull/180) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🎉 Merged PR [#127](https://github.com/kommitters/tickspot.js/pull/127) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+5. 🎉 Merged PR [#110](https://github.com/kommitters/editorjs-inline-image/pull/110) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
