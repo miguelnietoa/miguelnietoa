@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. ❗️ Closed issue [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 2. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🗣 Commented on [#204](https://github.com/kommitters/kadena.ex/issues/204) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 🎉 Merged PR [#63](https://github.com/kommitters/editorjs-break-line/pull/63) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-5. 🎉 Merged PR [#180](https://github.com/kommitters/editorjs-toggle-block/pull/180) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
