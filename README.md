@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/kommitters/editorjs-toggle-block/pull/181) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🎉 Merged PR [#127](https://github.com/kommitters/editorjs-drag-drop/pull/127) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-3. 🎉 Merged PR [#126](https://github.com/kommitters/editorjs-drag-drop/pull/126) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-4. 🎉 Merged PR [#189](https://github.com/kommitters/editorjs-undo/pull/189) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 🎉 Merged PR [#188](https://github.com/kommitters/editorjs-undo/pull/188) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🎉 Merged PR [#182](https://github.com/kommitters/editorjs-toggle-block/pull/182) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🎉 Merged PR [#181](https://github.com/kommitters/editorjs-toggle-block/pull/181) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🎉 Merged PR [#127](https://github.com/kommitters/editorjs-drag-drop/pull/127) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+4. 🎉 Merged PR [#126](https://github.com/kommitters/editorjs-drag-drop/pull/126) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
+5. 🎉 Merged PR [#189](https://github.com/kommitters/editorjs-undo/pull/189) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
