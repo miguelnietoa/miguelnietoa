@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🎉 Merged PR [#189](https://github.com/kommitters/editorjs-undo/pull/189) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🎉 Merged PR [#188](https://github.com/kommitters/editorjs-undo/pull/188) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. ❗️ Closed issue [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 4. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 5. 🗣 Commented on [#93](https://github.com/kommitters/editorjs-tooltip/issues/93) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
