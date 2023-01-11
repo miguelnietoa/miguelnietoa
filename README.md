@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/kommitters/editorjs-break-line/pull/65) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-2. 🎉 Merged PR [#64](https://github.com/kommitters/editorjs-break-line/pull/64) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-3. 🎉 Merged PR [#95](https://github.com/kommitters/editorjs-tooltip/pull/95) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-4. 🎉 Merged PR [#92](https://github.com/kommitters/editorjs-tooltip/pull/92) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 🎉 Merged PR [#182](https://github.com/kommitters/editorjs-toggle-block/pull/182) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 🎉 Merged PR [#112](https://github.com/kommitters/editorjs-inline-image/pull/112) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🎉 Merged PR [#111](https://github.com/kommitters/editorjs-inline-image/pull/111) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+3. 🎉 Merged PR [#65](https://github.com/kommitters/editorjs-break-line/pull/65) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+4. 🎉 Merged PR [#64](https://github.com/kommitters/editorjs-break-line/pull/64) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+5. 🎉 Merged PR [#95](https://github.com/kommitters/editorjs-tooltip/pull/95) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
