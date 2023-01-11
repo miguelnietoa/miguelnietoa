@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/kommitters/editorjs-toggle-block/pull/182) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🎉 Merged PR [#181](https://github.com/kommitters/editorjs-toggle-block/pull/181) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🎉 Merged PR [#127](https://github.com/kommitters/editorjs-drag-drop/pull/127) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-4. 🎉 Merged PR [#126](https://github.com/kommitters/editorjs-drag-drop/pull/126) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-5. 🎉 Merged PR [#189](https://github.com/kommitters/editorjs-undo/pull/189) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🎉 Merged PR [#65](https://github.com/kommitters/editorjs-break-line/pull/65) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+2. 🎉 Merged PR [#64](https://github.com/kommitters/editorjs-break-line/pull/64) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+3. 🎉 Merged PR [#95](https://github.com/kommitters/editorjs-tooltip/pull/95) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 🎉 Merged PR [#92](https://github.com/kommitters/editorjs-tooltip/pull/92) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🎉 Merged PR [#182](https://github.com/kommitters/editorjs-toggle-block/pull/182) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
