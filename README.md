@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/kommitters/elixir_xdr/pull/78) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-2. 🎉 Merged PR [#217](https://github.com/kommitters/stellar_base/pull/217) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. 🎉 Merged PR [#271](https://github.com/kommitters/stellar_sdk/pull/271) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🎉 Merged PR [#130](https://github.com/kommitters/tickspot.js/pull/130) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
-5. 🎉 Merged PR [#128](https://github.com/kommitters/tickspot.js/pull/128) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+1. ❌ Closed PR [#5](https://github.com/miguelnietoa/mintacoin/pull/5) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+2. ❌ Closed PR [#6](https://github.com/miguelnietoa/mintacoin/pull/6) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+3. ❌ Closed PR [#7](https://github.com/miguelnietoa/mintacoin/pull/7) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+4. 🎉 Merged PR [#78](https://github.com/kommitters/elixir_xdr/pull/78) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+5. 🎉 Merged PR [#217](https://github.com/kommitters/stellar_base/pull/217) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
