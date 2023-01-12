@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/kommitters/mintacoin/pull/147) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-2. ❌ Closed PR [#5](https://github.com/miguelnietoa/mintacoin/pull/5) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-3. ❌ Closed PR [#6](https://github.com/miguelnietoa/mintacoin/pull/6) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-4. ❌ Closed PR [#7](https://github.com/miguelnietoa/mintacoin/pull/7) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
-5. 🎉 Merged PR [#78](https://github.com/kommitters/elixir_xdr/pull/78) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. 💪 Opened PR [#191](https://github.com/kommitters/editorjs-undo/pull/191) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🎉 Merged PR [#147](https://github.com/kommitters/mintacoin/pull/147) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+3. ❌ Closed PR [#5](https://github.com/miguelnietoa/mintacoin/pull/5) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+4. ❌ Closed PR [#6](https://github.com/miguelnietoa/mintacoin/pull/6) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
+5. ❌ Closed PR [#7](https://github.com/miguelnietoa/mintacoin/pull/7) in [miguelnietoa/mintacoin](https://github.com/miguelnietoa/mintacoin)
 <!--END_SECTION:activity-->
