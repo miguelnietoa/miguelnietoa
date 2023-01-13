@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#97](https://github.com/kommitters/editorjs-tooltip/pull/97) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🎉 Merged PR [#96](https://github.com/kommitters/editorjs-tooltip/pull/96) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🎉 Merged PR [#130](https://github.com/kommitters/editorjs-drag-drop/pull/130) in [kommitters/editorjs-drag-drop](https://github.com/kommitters/editorjs-drag-drop)
-4. 💪 Opened PR [#66](https://github.com/kommitters/editorjs-break-line/pull/66) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
-5. 💪 Opened PR [#184](https://github.com/kommitters/editorjs-toggle-block/pull/184) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 💪 Opened PR [#187](https://github.com/kommitters/editorjs-toggle-block/pull/187) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🎉 Merged PR [#186](https://github.com/kommitters/editorjs-toggle-block/pull/186) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 💪 Opened PR [#186](https://github.com/kommitters/editorjs-toggle-block/pull/186) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🎉 Merged PR [#68](https://github.com/kommitters/editorjs-break-line/pull/68) in [kommitters/editorjs-break-line](https://github.com/kommitters/editorjs-break-line)
+5. 🎉 Merged PR [#185](https://github.com/kommitters/editorjs-toggle-block/pull/185) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
