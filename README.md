@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
-2. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-drag-drop/pull/1) in [miguelnietoa/editorjs-drag-drop](https://github.com/miguelnietoa/editorjs-drag-drop)
-3. 💪 Opened PR [#1](https://github.com/miguelnietoa/editorjs-drag-drop/pull/1) in [miguelnietoa/editorjs-drag-drop](https://github.com/miguelnietoa/editorjs-drag-drop)
-4. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-undo/pull/1) in [miguelnietoa/editorjs-undo](https://github.com/miguelnietoa/editorjs-undo)
-5. 💪 Opened PR [#1](https://github.com/miguelnietoa/editorjs-undo/pull/1) in [miguelnietoa/editorjs-undo](https://github.com/miguelnietoa/editorjs-undo)
+1. 💪 Opened PR [#183](https://github.com/kommitters/editorjs-toggle-block/pull/183) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#1720](https://github.com/step-security/secure-workflows/issues/1720) in [step-security/secure-workflows](https://github.com/step-security/secure-workflows)
+3. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-drag-drop/pull/1) in [miguelnietoa/editorjs-drag-drop](https://github.com/miguelnietoa/editorjs-drag-drop)
+4. 💪 Opened PR [#1](https://github.com/miguelnietoa/editorjs-drag-drop/pull/1) in [miguelnietoa/editorjs-drag-drop](https://github.com/miguelnietoa/editorjs-drag-drop)
+5. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-undo/pull/1) in [miguelnietoa/editorjs-undo](https://github.com/miguelnietoa/editorjs-undo)
 <!--END_SECTION:activity-->
