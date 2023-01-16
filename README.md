@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/kommitters/kadena.ex/pull/243) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 💪 Opened PR [#80](https://github.com/kommitters/elixir_xdr/pull/80) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-3. 🎉 Merged PR [#79](https://github.com/kommitters/elixir_xdr/pull/79) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-4. 💪 Opened PR [#219](https://github.com/kommitters/stellar_base/pull/219) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🎉 Merged PR [#218](https://github.com/kommitters/stellar_base/pull/218) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🎉 Merged PR [#150](https://github.com/kommitters/mintacoin/pull/150) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+2. 💪 Opened PR [#150](https://github.com/kommitters/mintacoin/pull/150) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+3. 🎉 Merged PR [#149](https://github.com/kommitters/mintacoin/pull/149) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+4. 💪 Opened PR [#149](https://github.com/kommitters/mintacoin/pull/149) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+5. 🎉 Merged PR [#148](https://github.com/kommitters/mintacoin/pull/148) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
 <!--END_SECTION:activity-->
