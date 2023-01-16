@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#113](https://github.com/kommitters/editorjs-inline-image/pull/113) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-2. 🎉 Merged PR [#187](https://github.com/kommitters/editorjs-toggle-block/pull/187) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 💪 Opened PR [#187](https://github.com/kommitters/editorjs-toggle-block/pull/187) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🎉 Merged PR [#186](https://github.com/kommitters/editorjs-toggle-block/pull/186) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 💪 Opened PR [#186](https://github.com/kommitters/editorjs-toggle-block/pull/186) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 💪 Opened PR [#272](https://github.com/kommitters/stellar_sdk/pull/272) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 💪 Opened PR [#132](https://github.com/kommitters/tickspot.js/pull/132) in [kommitters/tickspot.js](https://github.com/kommitters/tickspot.js)
+3. 💪 Opened PR [#113](https://github.com/kommitters/editorjs-inline-image/pull/113) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+4. 🎉 Merged PR [#187](https://github.com/kommitters/editorjs-toggle-block/pull/187) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 💪 Opened PR [#187](https://github.com/kommitters/editorjs-toggle-block/pull/187) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
