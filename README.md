@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/kommitters/kadena.ex/pull/243) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-2. 🎉 Merged PR [#153](https://github.com/kommitters/mintacoin/pull/153) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-3. 💪 Opened PR [#153](https://github.com/kommitters/mintacoin/pull/153) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-4. 🎉 Merged PR [#152](https://github.com/kommitters/mintacoin/pull/152) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
-5. 💪 Opened PR [#152](https://github.com/kommitters/mintacoin/pull/152) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+1. ❗️ Closed issue [#233](https://github.com/kommitters/kadena.ex/issues/233) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+2. 🎉 Merged PR [#243](https://github.com/kommitters/kadena.ex/pull/243) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+3. 🎉 Merged PR [#153](https://github.com/kommitters/mintacoin/pull/153) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+4. 💪 Opened PR [#153](https://github.com/kommitters/mintacoin/pull/153) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+5. 🎉 Merged PR [#152](https://github.com/kommitters/mintacoin/pull/152) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
 <!--END_SECTION:activity-->
