@@ -34,8 +34,8 @@ I've worked with the following stacks:\
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#99](https://github.com/kommitters/editorjs-tooltip/issues/99) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🎉 Merged PR [#274](https://github.com/kommitters/kadena.ex/pull/274) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-3. ❗️ Closed issue [#233](https://github.com/kommitters/kadena.ex/issues/233) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. 💪 Opened PR [#153](https://github.com/kommitters/mintacoin/pull/153) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+2. 🗣 Commented on [#99](https://github.com/kommitters/editorjs-tooltip/issues/99) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🎉 Merged PR [#274](https://github.com/kommitters/kadena.ex/pull/274) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
+4. ❗️ Closed issue [#233](https://github.com/kommitters/kadena.ex/issues/233) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
 5. 🎉 Merged PR [#152](https://github.com/kommitters/mintacoin/pull/152) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
 <!--END_SECTION:activity-->
