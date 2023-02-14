@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/kommitters/editorjs-tooltip/issues/99) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🗣 Commented on [#99](https://github.com/kommitters/editorjs-tooltip/issues/99) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🎉 Merged PR [#274](https://github.com/kommitters/kadena.ex/pull/274) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-4. ❗️ Closed issue [#233](https://github.com/kommitters/kadena.ex/issues/233) in [kommitters/kadena.ex](https://github.com/kommitters/kadena.ex)
-5. 🎉 Merged PR [#152](https://github.com/kommitters/mintacoin/pull/152) in [kommitters/mintacoin](https://github.com/kommitters/mintacoin)
+1. ❗️ Opened issue [#228](https://github.com/kommitters/stellar_base/issues/228) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. ❗️ Opened issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. ❗️ Opened issue [#226](https://github.com/kommitters/stellar_base/issues/226) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. ❗️ Opened issue [#225](https://github.com/kommitters/stellar_base/issues/225) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. ❗️ Opened issue [#224](https://github.com/kommitters/stellar_base/issues/224) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
