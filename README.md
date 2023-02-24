@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5786](https://github.com/calcom/cal.com/issues/5786) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. ❗️ Opened issue [#228](https://github.com/kommitters/stellar_base/issues/228) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. ❗️ Opened issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. ❗️ Opened issue [#226](https://github.com/kommitters/stellar_base/issues/226) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. ❗️ Opened issue [#225](https://github.com/kommitters/stellar_base/issues/225) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 💪 Opened PR [#7322](https://github.com/calcom/cal.com/pull/7322) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. ❗️ Opened issue [#7321](https://github.com/calcom/cal.com/issues/7321) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🗣 Commented on [#5786](https://github.com/calcom/cal.com/issues/5786) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. ❗️ Opened issue [#228](https://github.com/kommitters/stellar_base/issues/228) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. ❗️ Opened issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
