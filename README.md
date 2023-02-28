@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7322](https://github.com/calcom/cal.com/pull/7322) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. ❗️ Opened issue [#7321](https://github.com/calcom/cal.com/issues/7321) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🗣 Commented on [#5786](https://github.com/calcom/cal.com/issues/5786) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. ❗️ Opened issue [#228](https://github.com/kommitters/stellar_base/issues/228) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. ❗️ Opened issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🗣 Commented on [#179](https://github.com/kommitters/editorjs-undo/issues/179) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. ❌ Closed PR [#179](https://github.com/kommitters/editorjs-undo/pull/179) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🗣 Commented on [#190](https://github.com/kommitters/editorjs-undo/issues/190) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 💪 Opened PR [#7322](https://github.com/calcom/cal.com/pull/7322) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. ❗️ Opened issue [#7321](https://github.com/calcom/cal.com/issues/7321) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
