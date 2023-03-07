@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/kommitters/editorjs-undo/pull/196) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🎉 Merged PR [#195](https://github.com/kommitters/editorjs-undo/pull/195) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 💪 Opened PR [#195](https://github.com/kommitters/editorjs-undo/pull/195) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🎉 Merged PR [#194](https://github.com/kommitters/editorjs-undo/pull/194) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 🗣 Commented on [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. ❗️ Closed issue [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🎉 Merged PR [#196](https://github.com/kommitters/editorjs-undo/pull/196) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 💪 Opened PR [#196](https://github.com/kommitters/editorjs-undo/pull/196) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 🎉 Merged PR [#195](https://github.com/kommitters/editorjs-undo/pull/195) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
