@@ -34,8 +34,8 @@ I've worked with the following stacks:\
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7446](https://github.com/calcom/cal.com/issues/7446) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 💪 Opened PR [#7636](https://github.com/calcom/cal.com/pull/7636) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. ❗️ Closed issue [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 🎉 Merged PR [#196](https://github.com/kommitters/editorjs-undo/pull/196) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🗣 Commented on [#7446](https://github.com/calcom/cal.com/issues/7446) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 💪 Opened PR [#7636](https://github.com/calcom/cal.com/pull/7636) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. ❗️ Closed issue [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
