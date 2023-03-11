@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🎉 Merged PR [#198](https://github.com/kommitters/editorjs-undo/pull/198) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🗣 Commented on [#188](https://github.com/kommitters/editorjs-toggle-block/issues/188) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. ❗️ Closed issue [#188](https://github.com/kommitters/editorjs-toggle-block/issues/188) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🎉 Merged PR [#193](https://github.com/kommitters/editorjs-toggle-block/pull/193) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. ❗️ Closed issue [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
+2. 🗣 Commented on [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
+3. 🗣 Commented on [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
+4. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 🎉 Merged PR [#198](https://github.com/kommitters/editorjs-undo/pull/198) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
