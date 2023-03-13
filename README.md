@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. ❗️ Closed issue [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-3. 🗣 Commented on [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-4. 🗣 Commented on [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
-5. 🗣 Commented on [#180](https://github.com/kommitters/editorjs-undo/issues/180) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🎉 Merged PR [#101](https://github.com/kommitters/editorjs-tooltip/pull/101) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+2. 🎉 Merged PR [#102](https://github.com/kommitters/editorjs-tooltip/pull/102) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. ❗️ Closed issue [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
+5. 🗣 Commented on [#1674](https://github.com/lemurheavy/coveralls-public/issues/1674) in [lemurheavy/coveralls-public](https://github.com/lemurheavy/coveralls-public)
 <!--END_SECTION:activity-->
