@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#100](https://github.com/kommitters/editorjs-tooltip/issues/100) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🗣 Commented on [#100](https://github.com/kommitters/editorjs-tooltip/issues/100) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🎉 Merged PR [#104](https://github.com/kommitters/editorjs-tooltip/pull/104) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-4. 💪 Opened PR [#104](https://github.com/kommitters/editorjs-tooltip/pull/104) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 🎉 Merged PR [#103](https://github.com/kommitters/editorjs-tooltip/pull/103) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. ❗️ Closed issue [#100](https://github.com/kommitters/editorjs-tooltip/issues/100) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🗣 Commented on [#100](https://github.com/kommitters/editorjs-tooltip/issues/100) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 🎉 Merged PR [#104](https://github.com/kommitters/editorjs-tooltip/pull/104) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 💪 Opened PR [#104](https://github.com/kommitters/editorjs-tooltip/pull/104) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
