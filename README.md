@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 💪 Opened PR [#7819](https://github.com/calcom/cal.com/pull/7819) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 4. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. ❗️ Closed issue [#100](https://github.com/kommitters/editorjs-tooltip/issues/100) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
 <!--END_SECTION:activity-->
