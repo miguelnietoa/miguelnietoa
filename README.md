@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1720](https://github.com/step-security/secure-repo/issues/1720) in [step-security/secure-repo](https://github.com/step-security/secure-repo)
-2. 💪 Opened PR [#7819](https://github.com/calcom/cal.com/pull/7819) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🎉 Merged PR [#236](https://github.com/kommitters/stellar_base/pull/236) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🗣 Commented on [#1720](https://github.com/step-security/secure-repo/issues/1720) in [step-security/secure-repo](https://github.com/step-security/secure-repo)
+3. 💪 Opened PR [#7819](https://github.com/calcom/cal.com/pull/7819) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
