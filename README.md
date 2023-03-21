@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#101](https://github.com/kommitters/chaincerts-prototype/issues/101) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-2. 🎉 Merged PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-3. 💪 Opened PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-4. 🎉 Merged PR [#111](https://github.com/kommitters/chaincerts-prototype/pull/111) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-5. 💪 Opened PR [#111](https://github.com/kommitters/chaincerts-prototype/pull/111) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+1. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. ❗️ Closed issue [#101](https://github.com/kommitters/chaincerts-prototype/issues/101) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+3. 🎉 Merged PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+4. 💪 Opened PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+5. 🎉 Merged PR [#111](https://github.com/kommitters/chaincerts-prototype/pull/111) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
 <!--END_SECTION:activity-->
