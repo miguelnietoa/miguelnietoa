@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/kommitters/stellar_base/pull/236) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. 🗣 Commented on [#1720](https://github.com/step-security/secure-repo/issues/1720) in [step-security/secure-repo](https://github.com/step-security/secure-repo)
-3. 💪 Opened PR [#7819](https://github.com/calcom/cal.com/pull/7819) in [calcom/cal.com](https://github.com/calcom/cal.com)
-4. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-5. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. ❗️ Closed issue [#101](https://github.com/kommitters/chaincerts-prototype/issues/101) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+2. 🎉 Merged PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+3. 💪 Opened PR [#112](https://github.com/kommitters/chaincerts-prototype/pull/112) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+4. 🎉 Merged PR [#111](https://github.com/kommitters/chaincerts-prototype/pull/111) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+5. 💪 Opened PR [#111](https://github.com/kommitters/chaincerts-prototype/pull/111) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
 <!--END_SECTION:activity-->
