@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/kommitters/stellar_base/issues/222) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. ❗️ Closed issue [#223](https://github.com/kommitters/stellar_base/issues/223) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. 🗣 Commented on [#223](https://github.com/kommitters/stellar_base/issues/223) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. ❗️ Closed issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. ❗️ Closed issue [#228](https://github.com/kommitters/stellar_base/issues/228) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🎉 Merged PR [#221](https://github.com/kommitters/stellar_base/pull/221) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🗣 Commented on [#222](https://github.com/kommitters/stellar_base/issues/222) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. ❗️ Closed issue [#223](https://github.com/kommitters/stellar_base/issues/223) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🗣 Commented on [#223](https://github.com/kommitters/stellar_base/issues/223) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. ❗️ Closed issue [#227](https://github.com/kommitters/stellar_base/issues/227) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
