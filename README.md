@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/kommitters/chaincerts-prototype/pull/118) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-2. ❗️ Opened issue [#278](https://github.com/kommitters/stellar_sdk/issues/278) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. ❗️ Opened issue [#277](https://github.com/kommitters/stellar_sdk/issues/277) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. ❗️ Opened issue [#276](https://github.com/kommitters/stellar_sdk/issues/276) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🎉 Merged PR [#242](https://github.com/kommitters/stellar_base/pull/242) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. ❗️ Closed issue [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🎉 Merged PR [#119](https://github.com/kommitters/chaincerts-prototype/pull/119) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+4. 🎉 Merged PR [#120](https://github.com/kommitters/chaincerts-prototype/pull/120) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+5. ❌ Closed PR [#194](https://github.com/kommitters/editorjs-toggle-block/pull/194) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
