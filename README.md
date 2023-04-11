@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#277](https://github.com/kommitters/stellar_sdk/issues/277) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. ❗️ Closed issue [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🗣 Commented on [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🎉 Merged PR [#119](https://github.com/kommitters/chaincerts-prototype/pull/119) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
-5. 🎉 Merged PR [#120](https://github.com/kommitters/chaincerts-prototype/pull/120) in [kommitters/chaincerts-prototype](https://github.com/kommitters/chaincerts-prototype)
+1. ❗️ Opened issue [#282](https://github.com/kommitters/stellar_sdk/issues/282) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. ❗️ Opened issue [#281](https://github.com/kommitters/stellar_sdk/issues/281) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. ❗️ Closed issue [#277](https://github.com/kommitters/stellar_sdk/issues/277) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. ❗️ Closed issue [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🗣 Commented on [#189](https://github.com/kommitters/editorjs-toggle-block/issues/189) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
