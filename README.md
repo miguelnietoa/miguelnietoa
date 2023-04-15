@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#278](https://github.com/kommitters/stellar_sdk/issues/278) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#108](https://github.com/kommitters/editorjs-tooltip/pull/108) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🎉 Merged PR [#106](https://github.com/kommitters/editorjs-tooltip/pull/106) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-4. ❌ Closed PR [#105](https://github.com/kommitters/editorjs-tooltip/pull/105) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. ❗️ Opened issue [#282](https://github.com/kommitters/stellar_sdk/issues/282) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. ❗️ Opened issue [#2](https://github.com/miguelnietoa/open-sauced-goals/issues/2) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
+2. ❗️ Opened issue [#1](https://github.com/miguelnietoa/open-sauced-goals/issues/1) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
+3. ❗️ Closed issue [#278](https://github.com/kommitters/stellar_sdk/issues/278) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🎉 Merged PR [#108](https://github.com/kommitters/editorjs-tooltip/pull/108) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🎉 Merged PR [#106](https://github.com/kommitters/editorjs-tooltip/pull/106) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
