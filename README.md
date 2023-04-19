@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#199](https://github.com/kommitters/editorjs-undo/pull/199) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🎉 Merged PR [#201](https://github.com/kommitters/editorjs-undo/pull/201) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. ❗️ Opened issue [#2](https://github.com/miguelnietoa/open-sauced-goals/issues/2) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
-4. ❗️ Opened issue [#1](https://github.com/miguelnietoa/open-sauced-goals/issues/1) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
-5. ❗️ Closed issue [#278](https://github.com/kommitters/stellar_sdk/issues/278) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. ❗️ Closed issue [#282](https://github.com/kommitters/stellar_sdk/issues/282) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. ❌ Closed PR [#199](https://github.com/kommitters/editorjs-undo/pull/199) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🎉 Merged PR [#201](https://github.com/kommitters/editorjs-undo/pull/201) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. ❗️ Opened issue [#2](https://github.com/miguelnietoa/open-sauced-goals/issues/2) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
+5. ❗️ Opened issue [#1](https://github.com/miguelnietoa/open-sauced-goals/issues/1) in [miguelnietoa/open-sauced-goals](https://github.com/miguelnietoa/open-sauced-goals)
 <!--END_SECTION:activity-->
