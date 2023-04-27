@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#287](https://github.com/kommitters/stellar_sdk/issues/287) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
-3. 💪 Opened PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
-4. ❗️ Closed issue [#276](https://github.com/kommitters/stellar_sdk/issues/276) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🗣 Commented on [#276](https://github.com/kommitters/stellar_sdk/issues/276) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 🎉 Merged PR [#7](https://github.com/kommitters/.template/pull/7) in [kommitters/.template](https://github.com/kommitters/.template)
+2. 💪 Opened PR [#7](https://github.com/kommitters/.template/pull/7) in [kommitters/.template](https://github.com/kommitters/.template)
+3. ❗️ Closed issue [#287](https://github.com/kommitters/stellar_sdk/issues/287) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🎉 Merged PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
+5. 💪 Opened PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
 <!--END_SECTION:activity-->
