@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kommitters/xdrgen/pull/2) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
-2. ❗️ Opened issue [#4](https://github.com/kommitters/soroban.ex/issues/4) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. ❗️ Opened issue [#3](https://github.com/kommitters/soroban.ex/issues/3) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❗️ Opened issue [#2](https://github.com/kommitters/soroban.ex/issues/2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❗️ Opened issue [#1](https://github.com/kommitters/soroban.ex/issues/1) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. ❗️ Opened issue [#19](https://github.com/kommitters/soroban.ex/issues/19) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. ❗️ Opened issue [#18](https://github.com/kommitters/soroban.ex/issues/18) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. ❗️ Opened issue [#17](https://github.com/kommitters/soroban.ex/issues/17) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. ❗️ Opened issue [#16](https://github.com/kommitters/soroban.ex/issues/16) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. ❗️ Opened issue [#15](https://github.com/kommitters/soroban.ex/issues/15) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
