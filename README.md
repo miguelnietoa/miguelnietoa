@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kommitters/.template/pull/7) in [kommitters/.template](https://github.com/kommitters/.template)
-2. 💪 Opened PR [#7](https://github.com/kommitters/.template/pull/7) in [kommitters/.template](https://github.com/kommitters/.template)
-3. ❗️ Closed issue [#287](https://github.com/kommitters/stellar_sdk/issues/287) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🎉 Merged PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
-5. 💪 Opened PR [#28](https://github.com/MixiP-io/smart_contracts/pull/28) in [MixiP-io/smart_contracts](https://github.com/MixiP-io/smart_contracts)
+1. ❗️ Opened issue [#4](https://github.com/kommitters/soroban.ex/issues/4) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. ❗️ Opened issue [#3](https://github.com/kommitters/soroban.ex/issues/3) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. ❗️ Opened issue [#2](https://github.com/kommitters/soroban.ex/issues/2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. ❗️ Opened issue [#1](https://github.com/kommitters/soroban.ex/issues/1) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 🎉 Merged PR [#7](https://github.com/kommitters/.template/pull/7) in [kommitters/.template](https://github.com/kommitters/.template)
 <!--END_SECTION:activity-->
