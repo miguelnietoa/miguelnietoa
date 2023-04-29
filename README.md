@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/kommitters/soroban.ex/issues/19) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. ❗️ Opened issue [#18](https://github.com/kommitters/soroban.ex/issues/18) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. ❗️ Opened issue [#17](https://github.com/kommitters/soroban.ex/issues/17) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❗️ Opened issue [#16](https://github.com/kommitters/soroban.ex/issues/16) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❗️ Opened issue [#15](https://github.com/kommitters/soroban.ex/issues/15) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. ❗️ Opened issue [#23](https://github.com/kommitters/soroban.ex/issues/23) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. ❗️ Opened issue [#19](https://github.com/kommitters/soroban.ex/issues/19) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. ❗️ Opened issue [#18](https://github.com/kommitters/soroban.ex/issues/18) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. ❗️ Opened issue [#17](https://github.com/kommitters/soroban.ex/issues/17) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. ❗️ Opened issue [#16](https://github.com/kommitters/soroban.ex/issues/16) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
