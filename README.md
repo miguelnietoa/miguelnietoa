@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/kommitters/soroban.ex/issues/23) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. ❗️ Opened issue [#19](https://github.com/kommitters/soroban.ex/issues/19) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. ❗️ Opened issue [#18](https://github.com/kommitters/soroban.ex/issues/18) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❗️ Opened issue [#17](https://github.com/kommitters/soroban.ex/issues/17) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❗️ Opened issue [#16](https://github.com/kommitters/soroban.ex/issues/16) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🎉 Merged PR [#11](https://github.com/kommitters/soroban_smart_contracts/pull/11) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+2. 💪 Opened PR [#11](https://github.com/kommitters/soroban_smart_contracts/pull/11) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+3. ❗️ Opened issue [#23](https://github.com/kommitters/soroban.ex/issues/23) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. ❗️ Opened issue [#19](https://github.com/kommitters/soroban.ex/issues/19) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. ❗️ Opened issue [#18](https://github.com/kommitters/soroban.ex/issues/18) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
