@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#258](https://github.com/kommitters/stellar_base/issues/258) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. 🗣 Commented on [#263](https://github.com/kommitters/stellar_base/issues/263) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. 🎉 Merged PR [#257](https://github.com/kommitters/stellar_base/pull/257) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🎉 Merged PR [#11](https://github.com/kommitters/soroban_smart_contracts/pull/11) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
-5. 💪 Opened PR [#11](https://github.com/kommitters/soroban_smart_contracts/pull/11) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
+1. 🎉 Merged PR [#275](https://github.com/kommitters/stellar_sdk/pull/275) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. ❗️ Closed issue [#258](https://github.com/kommitters/stellar_base/issues/258) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 🗣 Commented on [#263](https://github.com/kommitters/stellar_base/issues/263) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🎉 Merged PR [#257](https://github.com/kommitters/stellar_base/pull/257) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 🎉 Merged PR [#11](https://github.com/kommitters/soroban_smart_contracts/pull/11) in [kommitters/soroban_smart_contracts](https://github.com/kommitters/soroban_smart_contracts)
 <!--END_SECTION:activity-->
