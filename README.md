@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 🎉 Merged PR [#275](https://github.com/kommitters/stellar_sdk/pull/275) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. ❗️ Closed issue [#258](https://github.com/kommitters/stellar_base/issues/258) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🗣 Commented on [#263](https://github.com/kommitters/stellar_base/issues/263) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🎉 Merged PR [#257](https://github.com/kommitters/stellar_base/pull/257) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🗣 Commented on [#296](https://github.com/kommitters/stellar_sdk/issues/296) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🗣 Commented on [#6939](https://github.com/calcom/cal.com/issues/6939) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🎉 Merged PR [#275](https://github.com/kommitters/stellar_sdk/pull/275) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. ❗️ Closed issue [#258](https://github.com/kommitters/stellar_base/issues/258) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 🗣 Commented on [#263](https://github.com/kommitters/stellar_base/issues/263) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
