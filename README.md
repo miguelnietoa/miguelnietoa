@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8879](https://github.com/calcom/cal.com/pull/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 🎉 Merged PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
-3. ❗️ Closed issue [#295](https://github.com/kommitters/stellar_sdk/issues/295) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 💪 Opened PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
-5. 🗣 Commented on [#296](https://github.com/kommitters/stellar_sdk/issues/296) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 🗣 Commented on [#8879](https://github.com/calcom/cal.com/issues/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+2. 💪 Opened PR [#8879](https://github.com/calcom/cal.com/pull/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+3. 🎉 Merged PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
+4. ❗️ Closed issue [#295](https://github.com/kommitters/stellar_sdk/issues/295) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 💪 Opened PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
 <!--END_SECTION:activity-->
