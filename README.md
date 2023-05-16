@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8879](https://github.com/calcom/cal.com/issues/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
-2. 💪 Opened PR [#8879](https://github.com/calcom/cal.com/pull/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
-3. 🎉 Merged PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
-4. ❗️ Closed issue [#295](https://github.com/kommitters/stellar_sdk/issues/295) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 💪 Opened PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
+1. 💪 Opened PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. ❌ Closed PR [#61](https://github.com/kommitters/soroban.ex/pull/61) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 🗣 Commented on [#8879](https://github.com/calcom/cal.com/issues/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+4. 💪 Opened PR [#8879](https://github.com/calcom/cal.com/pull/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+5. 🎉 Merged PR [#11](https://github.com/kommitters/xdrgen/pull/11) in [kommitters/xdrgen](https://github.com/kommitters/xdrgen)
 <!--END_SECTION:activity-->
