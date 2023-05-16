@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/kommitters/editorjs-undo/pull/208) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🗣 Commented on [#67](https://github.com/kommitters/soroban.ex/issues/67) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 🎉 Merged PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 💪 Opened PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❌ Closed PR [#61](https://github.com/kommitters/soroban.ex/pull/61) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🗣 Commented on [#207](https://github.com/kommitters/editorjs-undo/issues/207) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🎉 Merged PR [#211](https://github.com/kommitters/editorjs-undo/pull/211) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 💪 Opened PR [#211](https://github.com/kommitters/editorjs-undo/pull/211) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. 🎉 Merged PR [#210](https://github.com/kommitters/editorjs-undo/pull/210) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 💪 Opened PR [#210](https://github.com/kommitters/editorjs-undo/pull/210) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
