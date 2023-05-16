@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/kommitters/soroban.ex/issues/67) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🎉 Merged PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 💪 Opened PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❌ Closed PR [#61](https://github.com/kommitters/soroban.ex/pull/61) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🗣 Commented on [#8879](https://github.com/calcom/cal.com/issues/8879) in [calcom/cal.com](https://github.com/calcom/cal.com)
+1. 🎉 Merged PR [#208](https://github.com/kommitters/editorjs-undo/pull/208) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🗣 Commented on [#67](https://github.com/kommitters/soroban.ex/issues/67) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 🎉 Merged PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 💪 Opened PR [#62](https://github.com/kommitters/soroban.ex/pull/62) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. ❌ Closed PR [#61](https://github.com/kommitters/soroban.ex/pull/61) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
