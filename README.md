@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/kommitters/editorjs-undo/issues/207) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🎉 Merged PR [#211](https://github.com/kommitters/editorjs-undo/pull/211) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 💪 Opened PR [#211](https://github.com/kommitters/editorjs-undo/pull/211) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🎉 Merged PR [#210](https://github.com/kommitters/editorjs-undo/pull/210) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 💪 Opened PR [#210](https://github.com/kommitters/editorjs-undo/pull/210) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. 🗣 Commented on [#8653](https://github.com/simple-icons/simple-icons/issues/8653) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. ❗️ Closed issue [#8653](https://github.com/simple-icons/simple-icons/issues/8653) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. ❗️ Opened issue [#8653](https://github.com/simple-icons/simple-icons/issues/8653) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#207](https://github.com/kommitters/editorjs-undo/issues/207) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+5. 🎉 Merged PR [#211](https://github.com/kommitters/editorjs-undo/pull/211) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 <!--END_SECTION:activity-->
