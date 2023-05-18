@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
-2. 💪 Opened PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
-3. 🎉 Merged PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
-4. 💪 Opened PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
-5. 🗣 Commented on [#209](https://github.com/kommitters/editorjs-undo/issues/209) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+1. ❗️ Closed issue [#70](https://github.com/kommitters/soroban.ex/issues/70) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. 🎉 Merged PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
+3. 💪 Opened PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
+4. 🎉 Merged PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
+5. 💪 Opened PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
 <!--END_SECTION:activity-->
