@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/kommitters/chaincerts-smart-contracts/issues/81) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. ❗️ Opened issue [#80](https://github.com/kommitters/chaincerts-smart-contracts/issues/80) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🗣 Commented on [#202](https://github.com/kommitters/editorjs-undo/issues/202) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. ❗️ Closed issue [#70](https://github.com/kommitters/soroban.ex/issues/70) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🎉 Merged PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
+1. ❗️ Opened issue [#89](https://github.com/kommitters/chaincerts-smart-contracts/issues/89) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗️ Opened issue [#88](https://github.com/kommitters/chaincerts-smart-contracts/issues/88) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. ❗️ Opened issue [#87](https://github.com/kommitters/chaincerts-smart-contracts/issues/87) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. ❗️ Opened issue [#86](https://github.com/kommitters/chaincerts-smart-contracts/issues/86) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. ❗️ Opened issue [#85](https://github.com/kommitters/chaincerts-smart-contracts/issues/85) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
