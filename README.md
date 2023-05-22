@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#70](https://github.com/kommitters/soroban.ex/issues/70) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🎉 Merged PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
-3. 💪 Opened PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
-4. 🎉 Merged PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
-5. 💪 Opened PR [#9](https://github.com/kommitters/.github/pull/9) in [kommitters/.github](https://github.com/kommitters/.github)
+1. ❗️ Opened issue [#81](https://github.com/kommitters/chaincerts-smart-contracts/issues/81) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗️ Opened issue [#80](https://github.com/kommitters/chaincerts-smart-contracts/issues/80) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🗣 Commented on [#202](https://github.com/kommitters/editorjs-undo/issues/202) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+4. ❗️ Closed issue [#70](https://github.com/kommitters/soroban.ex/issues/70) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 🎉 Merged PR [#10](https://github.com/kommitters/.github/pull/10) in [kommitters/.github](https://github.com/kommitters/.github)
 <!--END_SECTION:activity-->
