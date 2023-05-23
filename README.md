@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#83](https://github.com/kommitters/chaincerts-smart-contracts/issues/83) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. ❗️ Closed issue [#82](https://github.com/kommitters/chaincerts-smart-contracts/issues/82) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. ❗️ Opened issue [#89](https://github.com/kommitters/chaincerts-smart-contracts/issues/89) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. ❗️ Opened issue [#88](https://github.com/kommitters/chaincerts-smart-contracts/issues/88) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. ❗️ Opened issue [#87](https://github.com/kommitters/chaincerts-smart-contracts/issues/87) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. ❗️ Closed issue [#80](https://github.com/kommitters/chaincerts-smart-contracts/issues/80) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗️ Closed issue [#85](https://github.com/kommitters/chaincerts-smart-contracts/issues/85) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. ❗️ Closed issue [#83](https://github.com/kommitters/chaincerts-smart-contracts/issues/83) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. ❗️ Closed issue [#82](https://github.com/kommitters/chaincerts-smart-contracts/issues/82) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. ❗️ Opened issue [#89](https://github.com/kommitters/chaincerts-smart-contracts/issues/89) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
