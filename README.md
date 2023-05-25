@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#87](https://github.com/kommitters/chaincerts-smart-contracts/issues/87) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🎉 Merged PR [#96](https://github.com/kommitters/chaincerts-smart-contracts/pull/96) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. ❗️ Closed issue [#86](https://github.com/kommitters/chaincerts-smart-contracts/issues/86) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 🎉 Merged PR [#95](https://github.com/kommitters/chaincerts-smart-contracts/pull/95) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. 🎉 Merged PR [#94](https://github.com/kommitters/chaincerts-smart-contracts/pull/94) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. ❗️ Closed issue [#88](https://github.com/kommitters/chaincerts-smart-contracts/issues/88) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗️ Closed issue [#87](https://github.com/kommitters/chaincerts-smart-contracts/issues/87) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🎉 Merged PR [#96](https://github.com/kommitters/chaincerts-smart-contracts/pull/96) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. ❗️ Closed issue [#86](https://github.com/kommitters/chaincerts-smart-contracts/issues/86) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🎉 Merged PR [#95](https://github.com/kommitters/chaincerts-smart-contracts/pull/95) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
