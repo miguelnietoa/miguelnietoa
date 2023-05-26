@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#81](https://github.com/kommitters/chaincerts-smart-contracts/issues/81) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. ❗️ Closed issue [#99](https://github.com/kommitters/chaincerts-smart-contracts/issues/99) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. ❗️ Closed issue [#89](https://github.com/kommitters/chaincerts-smart-contracts/issues/89) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 🎉 Merged PR [#98](https://github.com/kommitters/chaincerts-smart-contracts/pull/98) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. ❗️ Opened issue [#99](https://github.com/kommitters/chaincerts-smart-contracts/issues/99) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 💪 Opened PR [#103](https://github.com/kommitters/chaincerts-smart-contracts/pull/103) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗️ Closed issue [#81](https://github.com/kommitters/chaincerts-smart-contracts/issues/81) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. ❗️ Closed issue [#99](https://github.com/kommitters/chaincerts-smart-contracts/issues/99) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. ❗️ Closed issue [#89](https://github.com/kommitters/chaincerts-smart-contracts/issues/89) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🎉 Merged PR [#98](https://github.com/kommitters/chaincerts-smart-contracts/pull/98) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
