@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#305](https://github.com/kommitters/stellar_sdk/issues/305) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🚀 Published release [v0.15.1](https://github.com/v0.15.1) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🎉 Merged PR [#307](https://github.com/kommitters/stellar_sdk/pull/307) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 💪 Opened PR [#307](https://github.com/kommitters/stellar_sdk/pull/307) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🎉 Merged PR [#306](https://github.com/kommitters/stellar_sdk/pull/306) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 💪 Opened PR [#111](https://github.com/kommitters/chaincerts-smart-contracts/pull/111) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗ Opened issue [#110](https://github.com/kommitters/chaincerts-smart-contracts/issues/110) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🔒 Closed issue [#305](https://github.com/kommitters/stellar_sdk/issues/305) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🚀 Published release [v0.15.1](https://github.com/v0.15.1) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🎉 Merged PR [#307](https://github.com/kommitters/stellar_sdk/pull/307) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
