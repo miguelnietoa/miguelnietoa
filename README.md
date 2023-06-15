@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#110](https://github.com/kommitters/chaincerts-smart-contracts/issues/110) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🚀 Published release [v0.8.0](https://github.com/v0.8.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🎉 Merged PR [#112](https://github.com/kommitters/chaincerts-smart-contracts/pull/112) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 💪 Opened PR [#112](https://github.com/kommitters/chaincerts-smart-contracts/pull/112) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. 🎉 Merged PR [#111](https://github.com/kommitters/chaincerts-smart-contracts/pull/111) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 💪 Opened PR [#98](https://github.com/kommitters/soroban.ex/pull/98) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. 🗣 Commented on [#465](https://github.com/stellar/soroban-docs/issues/465) in [stellar/soroban-docs](https://github.com/stellar/soroban-docs)
+3. 🔒 Closed issue [#110](https://github.com/kommitters/chaincerts-smart-contracts/issues/110) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🚀 Published release [v0.8.0](https://github.com/v0.8.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🎉 Merged PR [#112](https://github.com/kommitters/chaincerts-smart-contracts/pull/112) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
