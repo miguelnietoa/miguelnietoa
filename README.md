@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.11.2](https://github.com/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🎉 Merged PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 💪 Opened PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 🎉 Merged PR [#98](https://github.com/kommitters/soroban.ex/pull/98) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 💪 Opened PR [#98](https://github.com/kommitters/soroban.ex/pull/98) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🗣 Commented on [#176](https://github.com/kommitters/editorjs-toggle-block/issues/176) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🚀 Published release [v0.11.2](https://github.com/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 🎉 Merged PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 💪 Opened PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 🎉 Merged PR [#98](https://github.com/kommitters/soroban.ex/pull/98) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
