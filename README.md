@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#176](https://github.com/kommitters/editorjs-toggle-block/issues/176) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🚀 Published release [v0.11.2](https://github.com/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 🎉 Merged PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 💪 Opened PR [#99](https://github.com/kommitters/soroban.ex/pull/99) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🎉 Merged PR [#98](https://github.com/kommitters/soroban.ex/pull/98) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. ❗ Opened issue [#115](https://github.com/kommitters/chaincerts-smart-contracts/issues/115) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. ❗ Opened issue [#114](https://github.com/kommitters/chaincerts-smart-contracts/issues/114) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. ❗ Opened issue [#113](https://github.com/kommitters/chaincerts-smart-contracts/issues/113) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🗣 Commented on [#176](https://github.com/kommitters/editorjs-toggle-block/issues/176) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🚀 Published release [v0.11.2](https://github.com/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
