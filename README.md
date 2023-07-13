@@ -36,6 +36,6 @@ I've worked with the following stacks:\
 1. ❗ Opened issue [#115](https://github.com/kommitters/chaincerts-smart-contracts/issues/115) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 2. ❗ Opened issue [#114](https://github.com/kommitters/chaincerts-smart-contracts/issues/114) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 3. ❗ Opened issue [#113](https://github.com/kommitters/chaincerts-smart-contracts/issues/113) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 🗣 Commented on [#176](https://github.com/kommitters/editorjs-toggle-block/issues/176) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🚀 Published release [v0.11.2](https://github.com/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 🗣 Commented on [#176](https://github.com/kommitters/editorjs-toggle-block/issues/176#issuecomment-1597492245) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🚀 Published release [v0.11.2](https://github.com/kommitters/soroban.ex/releases/tag/v0.11.2) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
