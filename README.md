@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#319](https://github.com/kommitters/stellar_sdk/pull/319) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#318](https://github.com/kommitters/stellar_sdk/pull/318) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. ❗ Opened issue [#105](https://github.com/kommitters/soroban.ex/issues/105) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❗ Opened issue [#104](https://github.com/kommitters/soroban.ex/issues/104) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❗ Opened issue [#103](https://github.com/kommitters/soroban.ex/issues/103) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. ❗ Opened issue [#9149](https://github.com/simple-icons/simple-icons/issues/9149) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 🎉 Merged PR [#319](https://github.com/kommitters/stellar_sdk/pull/319) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🎉 Merged PR [#318](https://github.com/kommitters/stellar_sdk/pull/318) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. ❗ Opened issue [#105](https://github.com/kommitters/soroban.ex/issues/105) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. ❗ Opened issue [#104](https://github.com/kommitters/soroban.ex/issues/104) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
