@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#119](https://github.com/kommitters/chaincerts-smart-contracts/issues/119) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🗣 Commented on [#119](https://github.com/kommitters/chaincerts-smart-contracts/issues/119#issuecomment-1658370183) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🔒 Closed issue [#279](https://github.com/kommitters/stellar_base/issues/279) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🗣 Commented on [#279](https://github.com/kommitters/stellar_base/issues/279#issuecomment-1658339662) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. ❗ Opened issue [#9149](https://github.com/simple-icons/simple-icons/issues/9149) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#324](https://github.com/kommitters/stellar_sdk/pull/324) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🎉 Merged PR [#283](https://github.com/kommitters/stellar_base/pull/283) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 🔒 Closed issue [#119](https://github.com/kommitters/chaincerts-smart-contracts/issues/119) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🗣 Commented on [#119](https://github.com/kommitters/chaincerts-smart-contracts/issues/119#issuecomment-1658370183) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🔒 Closed issue [#279](https://github.com/kommitters/stellar_base/issues/279) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
