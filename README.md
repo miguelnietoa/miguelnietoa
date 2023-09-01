@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/step-security/harden-runner/issues/331#issuecomment-1703292314) in [step-security/harden-runner](https://github.com/step-security/harden-runner)
-2. 🗣 Commented on [#331](https://github.com/step-security/harden-runner/issues/331#issuecomment-1703268895) in [step-security/harden-runner](https://github.com/step-security/harden-runner)
-3. 🎉 Merged PR [#209](https://github.com/kommitters/editorjs-toggle-block/pull/209) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🚀 Published release [v0.13.0](https://github.com/kommitters/soroban.ex/releases/tag/v0.13.0) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🗣 Commented on [#119](https://github.com/kommitters/soroban.ex/pull/119#issuecomment-1671886314) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🎉 Merged PR [#205](https://github.com/kommitters/editorjs-toggle-block/pull/205) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🎉 Merged PR [#204](https://github.com/kommitters/editorjs-toggle-block/pull/204) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🎉 Merged PR [#202](https://github.com/kommitters/editorjs-toggle-block/pull/202) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🗣 Commented on [#331](https://github.com/step-security/harden-runner/issues/331#issuecomment-1703292314) in [step-security/harden-runner](https://github.com/step-security/harden-runner)
+5. 🗣 Commented on [#331](https://github.com/step-security/harden-runner/issues/331#issuecomment-1703268895) in [step-security/harden-runner](https://github.com/step-security/harden-runner)
 <!--END_SECTION:activity-->
