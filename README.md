@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/kommitters/elixir_xdr/pull/82) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
-2. 🎉 Merged PR [#121](https://github.com/kommitters/soroban.ex/pull/121) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. ❌ Closed PR [#123](https://github.com/kommitters/soroban.ex/pull/123) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 🗣 Commented on [#123](https://github.com/kommitters/soroban.ex/pull/123#issuecomment-1706987058) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 💪 Opened PR [#123](https://github.com/kommitters/soroban.ex/pull/123) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 💪 Opened PR [#6](https://github.com/miguelnietoa/elixir_xdr/pull/6) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+2. 🎉 Merged PR [#5](https://github.com/miguelnietoa/elixir_xdr/pull/5) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+3. 💪 Opened PR [#5](https://github.com/miguelnietoa/elixir_xdr/pull/5) in [miguelnietoa/elixir_xdr](https://github.com/miguelnietoa/elixir_xdr)
+4. 💪 Opened PR [#84](https://github.com/kommitters/elixir_xdr/pull/84) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+5. 🎉 Merged PR [#83](https://github.com/kommitters/elixir_xdr/pull/83) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
 <!--END_SECTION:activity-->
