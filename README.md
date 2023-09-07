@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#289](https://github.com/kommitters/stellar_base/pull/289) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-2. 🎉 Merged PR [#288](https://github.com/kommitters/stellar_base/pull/288) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-3. 💪 Opened PR [#288](https://github.com/kommitters/stellar_base/pull/288) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🎉 Merged PR [#287](https://github.com/kommitters/stellar_base/pull/287) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🚀 Published release [v0.3.10](https://github.com/kommitters/elixir_xdr/releases/tag/v0.3.10) in [kommitters/elixir_xdr](https://github.com/kommitters/elixir_xdr)
+1. 🚀 Published release [v0.13.2](https://github.com/kommitters/stellar_base/releases/tag/v0.13.2) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🎉 Merged PR [#289](https://github.com/kommitters/stellar_base/pull/289) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+3. 💪 Opened PR [#289](https://github.com/kommitters/stellar_base/pull/289) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🎉 Merged PR [#288](https://github.com/kommitters/stellar_base/pull/288) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. 💪 Opened PR [#288](https://github.com/kommitters/stellar_base/pull/288) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
