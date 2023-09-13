@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🗣 Commented on [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208#issuecomment-1714620790) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🎉 Merged PR [#207](https://github.com/kommitters/editorjs-toggle-block/pull/207) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🗣 Commented on [#207](https://github.com/kommitters/editorjs-toggle-block/pull/207#issuecomment-1714580023) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🚀 Published release [v0.13.2](https://github.com/kommitters/stellar_base/releases/tag/v0.13.2) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 💪 Opened PR [#210](https://github.com/kommitters/editorjs-toggle-block/pull/210) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🎉 Merged PR [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🗣 Commented on [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208#issuecomment-1714620790) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🎉 Merged PR [#207](https://github.com/kommitters/editorjs-toggle-block/pull/207) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🗣 Commented on [#207](https://github.com/kommitters/editorjs-toggle-block/pull/207#issuecomment-1714580023) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
