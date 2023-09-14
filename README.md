@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#211](https://github.com/kommitters/editorjs-toggle-block/pull/211) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🎉 Merged PR [#210](https://github.com/kommitters/editorjs-toggle-block/pull/210) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 💪 Opened PR [#210](https://github.com/kommitters/editorjs-toggle-block/pull/210) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🎉 Merged PR [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🗣 Commented on [#208](https://github.com/kommitters/editorjs-toggle-block/pull/208#issuecomment-1714620790) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 💪 Opened PR [#212](https://github.com/kommitters/editorjs-toggle-block/pull/212) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🎉 Merged PR [#211](https://github.com/kommitters/editorjs-toggle-block/pull/211) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 💪 Opened PR [#211](https://github.com/kommitters/editorjs-toggle-block/pull/211) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🎉 Merged PR [#210](https://github.com/kommitters/editorjs-toggle-block/pull/210) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 💪 Opened PR [#210](https://github.com/kommitters/editorjs-toggle-block/pull/210) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
