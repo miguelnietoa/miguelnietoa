@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/kommitters/editorjs-undo/pull/219#issuecomment-1720159844) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🔒 Closed issue [#206](https://github.com/kommitters/editorjs-toggle-block/issues/206) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🗣 Commented on [#206](https://github.com/kommitters/editorjs-toggle-block/issues/206#issuecomment-1720080817) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🚀 Published release [v0.3.12](https://github.com/kommitters/editorjs-toggle-block/releases/tag/v0.3.12) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🎉 Merged PR [#212](https://github.com/kommitters/editorjs-toggle-block/pull/212) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. ❗ Opened issue [#290](https://github.com/kommitters/stellar_base/issues/290) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+2. 🗣 Commented on [#219](https://github.com/kommitters/editorjs-undo/pull/219#issuecomment-1720159844) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🔒 Closed issue [#206](https://github.com/kommitters/editorjs-toggle-block/issues/206) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🗣 Commented on [#206](https://github.com/kommitters/editorjs-toggle-block/issues/206#issuecomment-1720080817) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🚀 Published release [v0.3.12](https://github.com/kommitters/editorjs-toggle-block/releases/tag/v0.3.12) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
