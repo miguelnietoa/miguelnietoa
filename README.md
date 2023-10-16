@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#337](https://github.com/kommitters/stellar_sdk/issues/337) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🗣 Commented on [#337](https://github.com/kommitters/stellar_sdk/issues/337#issuecomment-1758056340) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🔒 Closed issue [#123](https://github.com/kommitters/chaincerts-smart-contracts/issues/123) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. ❗ Opened issue [#126](https://github.com/kommitters/soroban.ex/issues/126) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. ❗ Opened issue [#123](https://github.com/kommitters/chaincerts-smart-contracts/issues/123) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765206320) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+2. 🔒 Closed issue [#337](https://github.com/kommitters/stellar_sdk/issues/337) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🗣 Commented on [#337](https://github.com/kommitters/stellar_sdk/issues/337#issuecomment-1758056340) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🔒 Closed issue [#123](https://github.com/kommitters/chaincerts-smart-contracts/issues/123) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. ❗ Opened issue [#126](https://github.com/kommitters/soroban.ex/issues/126) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
