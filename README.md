@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#237](https://github.com/kommitters/editorjs-undo/pull/237) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-2. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765369778) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
-3. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765206320) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
-4. 🔒 Closed issue [#337](https://github.com/kommitters/stellar_sdk/issues/337) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🗣 Commented on [#337](https://github.com/kommitters/stellar_sdk/issues/337#issuecomment-1758056340) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 🚀 Published release [v2.0.25](https://github.com/kommitters/editorjs-undo/releases/tag/v2.0.25) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🎉 Merged PR [#237](https://github.com/kommitters/editorjs-undo/pull/237) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+3. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765369778) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+4. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765206320) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+5. 🔒 Closed issue [#337](https://github.com/kommitters/stellar_sdk/issues/337) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
