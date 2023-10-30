@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#342](https://github.com/kommitters/stellar_sdk/issues/342) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#241](https://github.com/kommitters/editorjs-undo/pull/241) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-3. 🚀 Published release [v2.0.25](https://github.com/kommitters/editorjs-undo/releases/tag/v2.0.25) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🎉 Merged PR [#237](https://github.com/kommitters/editorjs-undo/pull/237) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-5. 🗣 Commented on [#131](https://github.com/digitalbazaar/vc/issues/131#issuecomment-1765369778) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+1. 🗣 Commented on [#341](https://github.com/kommitters/stellar_sdk/issues/341#issuecomment-1785639328) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🔒 Closed issue [#341](https://github.com/kommitters/stellar_sdk/issues/341) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🔓 Reopened issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+4. 🔒 Closed issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+5. ❗ Opened issue [#342](https://github.com/kommitters/stellar_sdk/issues/342) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
