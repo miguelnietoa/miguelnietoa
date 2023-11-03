@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
-2. 💪 Opened PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
-3. 🗣 Commented on [#341](https://github.com/kommitters/stellar_sdk/issues/341#issuecomment-1785639328) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🔒 Closed issue [#341](https://github.com/kommitters/stellar_sdk/issues/341) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🔓 Reopened issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. ❗ Opened issue [#5](https://github.com/kommitters/soroban-did-contract/issues/5) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+2. ❗ Opened issue [#4](https://github.com/kommitters/soroban-did-contract/issues/4) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+3. ❗ Opened issue [#3](https://github.com/kommitters/soroban-did-contract/issues/3) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+4. ❗ Opened issue [#2](https://github.com/kommitters/soroban-did-contract/issues/2) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. 🎉 Merged PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
 <!--END_SECTION:activity-->
