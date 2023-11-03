@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
-2. 🗣 Commented on [#341](https://github.com/kommitters/stellar_sdk/issues/341#issuecomment-1785639328) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🔒 Closed issue [#341](https://github.com/kommitters/stellar_sdk/issues/341) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🔓 Reopened issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-5. 🔒 Closed issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
+1. 🎉 Merged PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
+2. 💪 Opened PR [#8](https://github.com/kommitters/.template/pull/8) in [kommitters/.template](https://github.com/kommitters/.template)
+3. 🗣 Commented on [#341](https://github.com/kommitters/stellar_sdk/issues/341#issuecomment-1785639328) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🔒 Closed issue [#341](https://github.com/kommitters/stellar_sdk/issues/341) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🔓 Reopened issue [#295](https://github.com/kommitters/stellar_base/issues/295) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
 <!--END_SECTION:activity-->
