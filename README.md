@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/kommitters/soroban-did-contract/pull/12) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-2. 💪 Opened PR [#12](https://github.com/kommitters/soroban-did-contract/pull/12) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-3. ❗ Opened issue [#297](https://github.com/kommitters/stellar_base/issues/297) in [kommitters/stellar_base](https://github.com/kommitters/stellar_base)
-4. 🔒 Closed issue [#5](https://github.com/kommitters/soroban-did-contract/issues/5) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-5. 🎉 Merged PR [#11](https://github.com/kommitters/soroban-did-contract/pull/11) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🔒 Closed issue [#10](https://github.com/kommitters/soroban-did-contract/issues/10) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+2. 🔒 Closed issue [#9](https://github.com/kommitters/soroban-did-contract/issues/9) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+3. 🔒 Closed issue [#8](https://github.com/kommitters/soroban-did-contract/issues/8) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+4. 🎉 Merged PR [#13](https://github.com/kommitters/soroban-did-contract/pull/13) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. 🎉 Merged PR [#12](https://github.com/kommitters/soroban-did-contract/pull/12) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
