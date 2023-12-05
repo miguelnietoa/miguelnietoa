@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/kommitters/soroban-did-contract/issues/20#issuecomment-1841013486) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-2. 🔒 Closed issue [#20](https://github.com/kommitters/soroban-did-contract/issues/20) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-3. 🎉 Merged PR [#22](https://github.com/kommitters/soroban-did-contract/pull/22) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-4. 🗣 Commented on [#22](https://github.com/kommitters/soroban-did-contract/pull/22#issuecomment-1840978536) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-5. 🎉 Merged PR [#21](https://github.com/kommitters/soroban-did-contract/pull/21) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🎉 Merged PR [#156](https://github.com/kommitters/chaincerts-smart-contracts/pull/156) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 🗣 Commented on [#20](https://github.com/kommitters/soroban-did-contract/issues/20#issuecomment-1841013486) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+3. 🔒 Closed issue [#20](https://github.com/kommitters/soroban-did-contract/issues/20) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+4. 🎉 Merged PR [#22](https://github.com/kommitters/soroban-did-contract/pull/22) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. 🗣 Commented on [#22](https://github.com/kommitters/soroban-did-contract/pull/22#issuecomment-1840978536) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
