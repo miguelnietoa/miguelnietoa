@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#154](https://github.com/kommitters/chaincerts-smart-contracts/pull/154) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🎉 Merged PR [#156](https://github.com/kommitters/chaincerts-smart-contracts/pull/156) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🗣 Commented on [#20](https://github.com/kommitters/soroban-did-contract/issues/20#issuecomment-1841013486) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-4. 🔒 Closed issue [#20](https://github.com/kommitters/soroban-did-contract/issues/20) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-5. 🎉 Merged PR [#22](https://github.com/kommitters/soroban-did-contract/pull/22) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🗣 Commented on [#341](https://github.com/kommitters/stellar_sdk/issues/341#issuecomment-1850693020) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🎉 Merged PR [#154](https://github.com/kommitters/chaincerts-smart-contracts/pull/154) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🎉 Merged PR [#156](https://github.com/kommitters/chaincerts-smart-contracts/pull/156) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🗣 Commented on [#20](https://github.com/kommitters/soroban-did-contract/issues/20#issuecomment-1841013486) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. 🔒 Closed issue [#20](https://github.com/kommitters/soroban-did-contract/issues/20) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
