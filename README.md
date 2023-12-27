@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#348](https://github.com/kommitters/stellar_sdk/pull/348) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 💪 Opened PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. ❗ Opened issue [#160](https://github.com/kommitters/chaincerts-smart-contracts/issues/160) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. ❗ Opened issue [#24](https://github.com/kommitters/soroban-did-contract/issues/24) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🗣 Commented on [#224](https://github.com/kommitters/editorjs-toggle-block/issues/224#issuecomment-1870362711) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223#issuecomment-1870354340) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🎉 Merged PR [#348](https://github.com/kommitters/stellar_sdk/pull/348) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🎉 Merged PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 💪 Opened PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
