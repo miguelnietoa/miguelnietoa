@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/kommitters/editorjs-toggle-block/issues/224#issuecomment-1870362711) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🗣 Commented on [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223#issuecomment-1870354340) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🎉 Merged PR [#348](https://github.com/kommitters/stellar_sdk/pull/348) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🎉 Merged PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 💪 Opened PR [#142](https://github.com/kommitters/soroban.ex/pull/142) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-1870400058) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#228](https://github.com/kommitters/editorjs-toggle-block/issues/228#issuecomment-1870396173) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🗣 Commented on [#226](https://github.com/kommitters/editorjs-toggle-block/issues/226#issuecomment-1870395045) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🔒 Closed issue [#226](https://github.com/kommitters/editorjs-toggle-block/issues/226) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🗣 Commented on [#225](https://github.com/kommitters/editorjs-toggle-block/issues/225#issuecomment-1870392659) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
