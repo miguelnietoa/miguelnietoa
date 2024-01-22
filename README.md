@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1073](https://github.com/stellar/freighter/issues/1073#issuecomment-1874373506) in [stellar/freighter](https://github.com/stellar/freighter)
-2. ❗ Opened issue [#1073](https://github.com/stellar/freighter/issues/1073) in [stellar/freighter](https://github.com/stellar/freighter)
-3. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-1870400058) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🗣 Commented on [#228](https://github.com/kommitters/editorjs-toggle-block/issues/228#issuecomment-1870396173) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🗣 Commented on [#226](https://github.com/kommitters/editorjs-toggle-block/issues/226#issuecomment-1870395045) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 🗣 Commented on [#169](https://github.com/kommitters/chaincerts-smart-contracts/pull/169#issuecomment-1904442618) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 🗣 Commented on [#1073](https://github.com/stellar/freighter/issues/1073#issuecomment-1874373506) in [stellar/freighter](https://github.com/stellar/freighter)
+3. ❗ Opened issue [#1073](https://github.com/stellar/freighter/issues/1073) in [stellar/freighter](https://github.com/stellar/freighter)
+4. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-1870400058) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+5. 🗣 Commented on [#228](https://github.com/kommitters/editorjs-toggle-block/issues/228#issuecomment-1870396173) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
 <!--END_SECTION:activity-->
