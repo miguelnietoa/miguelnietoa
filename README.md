@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/kommitters/chaincerts-smart-contracts/pull/169#issuecomment-1904442618) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🗣 Commented on [#1073](https://github.com/stellar/freighter/issues/1073#issuecomment-1874373506) in [stellar/freighter](https://github.com/stellar/freighter)
-3. ❗ Opened issue [#1073](https://github.com/stellar/freighter/issues/1073) in [stellar/freighter](https://github.com/stellar/freighter)
-4. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-1870400058) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🗣 Commented on [#228](https://github.com/kommitters/editorjs-toggle-block/issues/228#issuecomment-1870396173) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. 🗣 Commented on [#167](https://github.com/kommitters/chaincerts-smart-contracts/issues/167#issuecomment-1908419624) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 🔒 Closed issue [#167](https://github.com/kommitters/chaincerts-smart-contracts/issues/167) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🔒 Closed issue [#168](https://github.com/kommitters/chaincerts-smart-contracts/issues/168) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🗣 Commented on [#168](https://github.com/kommitters/chaincerts-smart-contracts/issues/168#issuecomment-1908419054) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🚀 Published release [v0.15.0](https://github.com/kommitters/chaincerts-smart-contracts/releases/tag/v0.15.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
