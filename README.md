@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/kommitters/soroban.ex/pull/148) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🎉 Merged PR [#147](https://github.com/kommitters/soroban.ex/pull/147) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 💪 Opened PR [#147](https://github.com/kommitters/soroban.ex/pull/147) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 🎉 Merged PR [#146](https://github.com/kommitters/soroban.ex/pull/146) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 💪 Opened PR [#146](https://github.com/kommitters/soroban.ex/pull/146) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🗣 Commented on [#350](https://github.com/kommitters/stellar_sdk/issues/350#issuecomment-1920062764) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🔒 Closed issue [#350](https://github.com/kommitters/stellar_sdk/issues/350) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🚀 Published release [v0.19.0](https://github.com/kommitters/soroban.ex/releases/tag/v0.19.0) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 🎉 Merged PR [#148](https://github.com/kommitters/soroban.ex/pull/148) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 💪 Opened PR [#148](https://github.com/kommitters/soroban.ex/pull/148) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
