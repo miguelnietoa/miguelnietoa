@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/kommitters/stellar_sdk/issues/351#issuecomment-1943729322) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🔒 Closed issue [#351](https://github.com/kommitters/stellar_sdk/issues/351) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🔒 Closed issue [#28](https://github.com/kommitters/soroban-did-contract/issues/28) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-4. ❗ Opened issue [#179](https://github.com/kommitters/chaincerts-smart-contracts/issues/179) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. ❗ Opened issue [#178](https://github.com/kommitters/chaincerts-smart-contracts/issues/178) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 🎉 Merged PR [#117](https://github.com/kommitters/editorjs-tooltip/pull/117) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+2. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953147077) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🗣 Commented on [#351](https://github.com/kommitters/stellar_sdk/issues/351#issuecomment-1943729322) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🔒 Closed issue [#351](https://github.com/kommitters/stellar_sdk/issues/351) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🔒 Closed issue [#28](https://github.com/kommitters/soroban-did-contract/issues/28) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
