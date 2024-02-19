@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/kommitters/editorjs-tooltip/pull/117) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953147077) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🗣 Commented on [#351](https://github.com/kommitters/stellar_sdk/issues/351#issuecomment-1943729322) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🔒 Closed issue [#351](https://github.com/kommitters/stellar_sdk/issues/351) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🔒 Closed issue [#28](https://github.com/kommitters/soroban-did-contract/issues/28) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953204979) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+2. 🚀 Published release [v1.2.0](https://github.com/kommitters/editorjs-tooltip/releases/tag/v1.2.0) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🎉 Merged PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 💪 Opened PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 🎉 Merged PR [#118](https://github.com/kommitters/editorjs-tooltip/pull/118) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
