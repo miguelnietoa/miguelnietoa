@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953204979) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-2. 🚀 Published release [v1.2.0](https://github.com/kommitters/editorjs-tooltip/releases/tag/v1.2.0) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-3. 🎉 Merged PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-4. 💪 Opened PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
-5. 🎉 Merged PR [#118](https://github.com/kommitters/editorjs-tooltip/pull/118) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 💪 Opened PR [#124](https://github.com/kommitters/editorjs-inline-image/pull/124) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953204979) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+3. 🚀 Published release [v1.2.0](https://github.com/kommitters/editorjs-tooltip/releases/tag/v1.2.0) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+4. 🎉 Merged PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+5. 💪 Opened PR [#119](https://github.com/kommitters/editorjs-tooltip/pull/119) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
 <!--END_SECTION:activity-->
