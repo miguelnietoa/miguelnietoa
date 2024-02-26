@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/kommitters/editorjs-inline-image/pull/116) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-2. 🎉 Merged PR [#124](https://github.com/kommitters/editorjs-inline-image/pull/124) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-3. 🗣 Commented on [#124](https://github.com/kommitters/editorjs-inline-image/pull/124#issuecomment-1964460658) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-4. 💪 Opened PR [#124](https://github.com/kommitters/editorjs-inline-image/pull/124) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
-5. 🗣 Commented on [#117](https://github.com/kommitters/editorjs-tooltip/pull/117#issuecomment-1953204979) in [kommitters/editorjs-tooltip](https://github.com/kommitters/editorjs-tooltip)
+1. 🎉 Merged PR [#123](https://github.com/kommitters/editorjs-inline-image/pull/123) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+2. 🗣 Commented on [#118](https://github.com/kommitters/editorjs-inline-image/pull/118#issuecomment-1965203030) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+3. ❌ Closed PR [#118](https://github.com/kommitters/editorjs-inline-image/pull/118) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+4. 🎉 Merged PR [#117](https://github.com/kommitters/editorjs-inline-image/pull/117) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
+5. 🎉 Merged PR [#116](https://github.com/kommitters/editorjs-inline-image/pull/116) in [kommitters/editorjs-inline-image](https://github.com/kommitters/editorjs-inline-image)
 <!--END_SECTION:activity-->
