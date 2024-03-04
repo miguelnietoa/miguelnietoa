@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#359](https://github.com/kommitters/stellar_sdk/pull/359) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 💪 Opened PR [#359](https://github.com/kommitters/stellar_sdk/pull/359) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🎉 Merged PR [#358](https://github.com/kommitters/stellar_sdk/pull/358) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 💪 Opened PR [#358](https://github.com/kommitters/stellar_sdk/pull/358) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 🚀 Published release [v0.21.0](https://github.com/miguelnietoa/stellar_sdk/releases/tag/v0.21.0) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+2. 🚀 Published release [v0.21.0](https://github.com/miguelnietoa/stellar_sdk/releases/tag/v0.21.0) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+3. 🚀 Published release [v0.21.0](https://github.com/miguelnietoa/stellar_sdk/releases/tag/v0.21.0) in [miguelnietoa/stellar_sdk](https://github.com/miguelnietoa/stellar_sdk)
+4. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🎉 Merged PR [#359](https://github.com/kommitters/stellar_sdk/pull/359) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
