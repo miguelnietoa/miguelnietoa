@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-2. 🎉 Merged PR [#361](https://github.com/kommitters/stellar_sdk/pull/361) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 💪 Opened PR [#361](https://github.com/kommitters/stellar_sdk/pull/361) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🎉 Merged PR [#360](https://github.com/kommitters/stellar_sdk/pull/360) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 💪 Opened PR [#360](https://github.com/kommitters/stellar_sdk/pull/360) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 🗣 Commented on [#352](https://github.com/kommitters/stellar_sdk/issues/352#issuecomment-1978715198) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+2. 🔒 Closed issue [#352](https://github.com/kommitters/stellar_sdk/issues/352) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+3. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🎉 Merged PR [#361](https://github.com/kommitters/stellar_sdk/pull/361) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 💪 Opened PR [#361](https://github.com/kommitters/stellar_sdk/pull/361) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
