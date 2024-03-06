@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#149](https://github.com/kommitters/soroban.ex/issues/149) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🗣 Commented on [#352](https://github.com/kommitters/stellar_sdk/issues/352#issuecomment-1978715198) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-3. 🔒 Closed issue [#352](https://github.com/kommitters/stellar_sdk/issues/352) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-4. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🎉 Merged PR [#361](https://github.com/kommitters/stellar_sdk/pull/361) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 💪 Opened PR [#150](https://github.com/kommitters/soroban.ex/pull/150) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. ❗ Opened issue [#149](https://github.com/kommitters/soroban.ex/issues/149) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 🗣 Commented on [#352](https://github.com/kommitters/stellar_sdk/issues/352#issuecomment-1978715198) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+4. 🔒 Closed issue [#352](https://github.com/kommitters/stellar_sdk/issues/352) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+5. 🚀 Published release [v0.21.0](https://github.com/kommitters/stellar_sdk/releases/tag/v0.21.0) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
 <!--END_SECTION:activity-->
