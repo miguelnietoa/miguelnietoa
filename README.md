@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/kommitters/soroban.ex/pull/152) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 🎉 Merged PR [#151](https://github.com/kommitters/soroban.ex/pull/151) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. 💪 Opened PR [#151](https://github.com/kommitters/soroban.ex/pull/151) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 🎉 Merged PR [#135](https://github.com/kommitters/soroban.ex/pull/135) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🎉 Merged PR [#150](https://github.com/kommitters/soroban.ex/pull/150) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🗣 Commented on [#149](https://github.com/kommitters/soroban.ex/issues/149#issuecomment-1983723598) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. 🔒 Closed issue [#149](https://github.com/kommitters/soroban.ex/issues/149) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 🚀 Published release [v0.20.0](https://github.com/kommitters/soroban.ex/releases/tag/v0.20.0) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 🎉 Merged PR [#152](https://github.com/kommitters/soroban.ex/pull/152) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 💪 Opened PR [#152](https://github.com/kommitters/soroban.ex/pull/152) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
