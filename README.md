@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#150](https://github.com/kommitters/soroban.ex/pull/150) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-2. 💪 Opened PR [#150](https://github.com/kommitters/soroban.ex/pull/150) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-3. ❗ Opened issue [#149](https://github.com/kommitters/soroban.ex/issues/149) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-4. 🗣 Commented on [#352](https://github.com/kommitters/stellar_sdk/issues/352#issuecomment-1978715198) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
-5. 🔒 Closed issue [#352](https://github.com/kommitters/stellar_sdk/issues/352) in [kommitters/stellar_sdk](https://github.com/kommitters/stellar_sdk)
+1. 💪 Opened PR [#152](https://github.com/kommitters/soroban.ex/pull/152) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+2. 🎉 Merged PR [#151](https://github.com/kommitters/soroban.ex/pull/151) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+3. 💪 Opened PR [#151](https://github.com/kommitters/soroban.ex/pull/151) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+4. 🎉 Merged PR [#135](https://github.com/kommitters/soroban.ex/pull/135) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+5. 🎉 Merged PR [#150](https://github.com/kommitters/soroban.ex/pull/150) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
 <!--END_SECTION:activity-->
