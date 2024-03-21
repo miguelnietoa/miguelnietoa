@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/kommitters/chaincerts-smart-contracts/pull/184) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🔒 Closed issue [#32](https://github.com/kommitters/soroban-did-contract/issues/32) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-3. 🚀 Published release [v0.5.0](https://github.com/kommitters/soroban-did-contract/releases/tag/v0.5.0) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-4. 🎉 Merged PR [#36](https://github.com/kommitters/soroban-did-contract/pull/36) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-5. 💪 Opened PR [#36](https://github.com/kommitters/soroban-did-contract/pull/36) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+1. 🎉 Merged PR [#185](https://github.com/kommitters/chaincerts-smart-contracts/pull/185) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 🎉 Merged PR [#184](https://github.com/kommitters/chaincerts-smart-contracts/pull/184) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 💪 Opened PR [#184](https://github.com/kommitters/chaincerts-smart-contracts/pull/184) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🔒 Closed issue [#32](https://github.com/kommitters/soroban-did-contract/issues/32) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. 🚀 Published release [v0.5.0](https://github.com/kommitters/soroban-did-contract/releases/tag/v0.5.0) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
