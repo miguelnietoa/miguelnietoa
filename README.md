@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/kommitters/soroban-did-contract/pull/33) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-2. 💪 Opened PR [#33](https://github.com/kommitters/soroban-did-contract/pull/33) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-3. ❗ Opened issue [#32](https://github.com/kommitters/soroban-did-contract/issues/32) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
-4. 🗣 Commented on [#149](https://github.com/kommitters/soroban.ex/issues/149#issuecomment-1983723598) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
-5. 🔒 Closed issue [#149](https://github.com/kommitters/soroban.ex/issues/149) in [kommitters/soroban.ex](https://github.com/kommitters/soroban.ex)
+1. 🎉 Merged PR [#34](https://github.com/kommitters/soroban-did-contract/pull/34) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+2. 💪 Opened PR [#34](https://github.com/kommitters/soroban-did-contract/pull/34) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+3. 🎉 Merged PR [#33](https://github.com/kommitters/soroban-did-contract/pull/33) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+4. 💪 Opened PR [#33](https://github.com/kommitters/soroban-did-contract/pull/33) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
+5. ❗ Opened issue [#32](https://github.com/kommitters/soroban-did-contract/issues/32) in [kommitters/soroban-did-contract](https://github.com/kommitters/soroban-did-contract)
 <!--END_SECTION:activity-->
