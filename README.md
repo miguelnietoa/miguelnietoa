@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#187](https://github.com/kommitters/chaincerts-smart-contracts/pull/187) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 💪 Opened PR [#187](https://github.com/kommitters/chaincerts-smart-contracts/pull/187) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. ❗ Opened issue [#186](https://github.com/kommitters/chaincerts-smart-contracts/issues/186) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 🎉 Merged PR [#185](https://github.com/kommitters/chaincerts-smart-contracts/pull/185) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. 🎉 Merged PR [#184](https://github.com/kommitters/chaincerts-smart-contracts/pull/184) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 🎉 Merged PR [#189](https://github.com/kommitters/chaincerts-smart-contracts/pull/189) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 💪 Opened PR [#189](https://github.com/kommitters/chaincerts-smart-contracts/pull/189) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🎉 Merged PR [#188](https://github.com/kommitters/chaincerts-smart-contracts/pull/188) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 💪 Opened PR [#188](https://github.com/kommitters/chaincerts-smart-contracts/pull/188) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🎉 Merged PR [#187](https://github.com/kommitters/chaincerts-smart-contracts/pull/187) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
