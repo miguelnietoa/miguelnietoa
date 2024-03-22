@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 💪 Opened PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🎉 Merged PR [#190](https://github.com/kommitters/chaincerts-smart-contracts/pull/190) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-tooltip/pull/1) in [miguelnietoa/editorjs-tooltip](https://github.com/miguelnietoa/editorjs-tooltip)
-5. 💪 Opened PR [#1](https://github.com/miguelnietoa/editorjs-tooltip/pull/1) in [miguelnietoa/editorjs-tooltip](https://github.com/miguelnietoa/editorjs-tooltip)
+1. 🚀 Published release [v0.18.0](https://github.com/kommitters/chaincerts-smart-contracts/releases/tag/v0.18.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+2. 🎉 Merged PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 💪 Opened PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🎉 Merged PR [#190](https://github.com/kommitters/chaincerts-smart-contracts/pull/190) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 🎉 Merged PR [#1](https://github.com/miguelnietoa/editorjs-tooltip/pull/1) in [miguelnietoa/editorjs-tooltip](https://github.com/miguelnietoa/editorjs-tooltip)
 <!--END_SECTION:activity-->
