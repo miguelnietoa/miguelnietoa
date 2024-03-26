@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#186](https://github.com/kommitters/chaincerts-smart-contracts/issues/186) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. 🚀 Published release [v0.18.0](https://github.com/kommitters/chaincerts-smart-contracts/releases/tag/v0.18.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🎉 Merged PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-4. 💪 Opened PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. 🎉 Merged PR [#190](https://github.com/kommitters/chaincerts-smart-contracts/pull/190) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 🗣 Commented on [#243](https://github.com/kommitters/editorjs-undo/issues/243#issuecomment-2021568126) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🔒 Closed issue [#186](https://github.com/kommitters/chaincerts-smart-contracts/issues/186) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+3. 🚀 Published release [v0.18.0](https://github.com/kommitters/chaincerts-smart-contracts/releases/tag/v0.18.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+4. 🎉 Merged PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+5. 💪 Opened PR [#191](https://github.com/kommitters/chaincerts-smart-contracts/pull/191) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
 <!--END_SECTION:activity-->
