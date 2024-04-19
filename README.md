@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/parroty/excoveralls/issues/294#issuecomment-2029775458) in [parroty/excoveralls](https://github.com/parroty/excoveralls)
-2. 🗣 Commented on [#294](https://github.com/parroty/excoveralls/issues/294#issuecomment-2029774787) in [parroty/excoveralls](https://github.com/parroty/excoveralls)
-3. 🗣 Commented on [#243](https://github.com/kommitters/editorjs-undo/issues/243#issuecomment-2021568126) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
-4. 🔒 Closed issue [#186](https://github.com/kommitters/chaincerts-smart-contracts/issues/186) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-5. 🚀 Published release [v0.18.0](https://github.com/kommitters/chaincerts-smart-contracts/releases/tag/v0.18.0) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
+1. 🚀 Published release [v0.4.0](https://github.com/kommitters/bas/releases/tag/v0.4.0) in [kommitters/bas](https://github.com/kommitters/bas)
+2. 💪 Opened PR [#28](https://github.com/kommitters/bas/pull/28) in [kommitters/bas](https://github.com/kommitters/bas)
+3. 🔒 Closed issue [#25](https://github.com/kommitters/bas/issues/25) in [kommitters/bas](https://github.com/kommitters/bas)
+4. 🎉 Merged PR [#27](https://github.com/kommitters/bas/pull/27) in [kommitters/bas](https://github.com/kommitters/bas)
+5. 💪 Opened PR [#27](https://github.com/kommitters/bas/pull/27) in [kommitters/bas](https://github.com/kommitters/bas)
 <!--END_SECTION:activity-->
