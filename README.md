@@ -33,9 +33,9 @@ I've worked with the following stacks:\
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223#issuecomment-2076004596) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-2. 🔒 Closed issue [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-3. 🚀 Published release [v0.4.0](https://github.com/kommitters/bas/releases/tag/v0.4.0) in [kommitters/bas](https://github.com/kommitters/bas)
-4. 💪 Opened PR [#28](https://github.com/kommitters/bas/pull/28) in [kommitters/bas](https://github.com/kommitters/bas)
-5. 🔒 Closed issue [#25](https://github.com/kommitters/bas/issues/25) in [kommitters/bas](https://github.com/kommitters/bas)
+1. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-2076117865) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+2. 🗣 Commented on [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223#issuecomment-2076004596) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+3. 🔒 Closed issue [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+4. 🚀 Published release [v0.4.0](https://github.com/kommitters/bas/releases/tag/v0.4.0) in [kommitters/bas](https://github.com/kommitters/bas)
+5. 💪 Opened PR [#28](https://github.com/kommitters/bas/pull/28) in [kommitters/bas](https://github.com/kommitters/bas)
 <!--END_SECTION:activity-->
