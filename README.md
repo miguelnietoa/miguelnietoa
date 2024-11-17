@@ -1,6 +1,6 @@
 # Hello, I'm Miguel Nieto 👋
 
-I am a passionate **Software Engineer**, **Engineering Manager**, and **Open Source Advocate** with a robust background in building and scaling applications and systems. With extensive experience in **JavaScript**, **Elixir**, **Python**, and **Ruby**, I specialize in crafting efficient, scalable, and maintainable digital products.
+I am a passionate **Software Engineer**, **Tech Lead**, and **Open Source Advocate** with a robust background in building and scaling applications and systems. With extensive experience in **JavaScript**, **Elixir**, **Python**, and **Ruby**, I specialize in crafting efficient, scalable, and maintainable digital products.
 
 I am also deeply involved in the Web3 space, working with cutting-edge technologies like **Stellar** and **Soroban**. I am committed to leveraging these technologies to build decentralized applications that are secure, transparent, and resilient.
 
