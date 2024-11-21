@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#200](https://github.com/kommitters/chaincerts-smart-contracts/pull/200) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-2. ❌ Closed PR [#200](https://github.com/kommitters/chaincerts-smart-contracts/pull/200) in [kommitters/chaincerts-smart-contracts](https://github.com/kommitters/chaincerts-smart-contracts)
-3. 🗣 Commented on [#170](https://github.com/kommitters/editorjs-toggle-block/issues/170#issuecomment-2076117865) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-4. 🗣 Commented on [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223#issuecomment-2076004596) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
-5. 🔒 Closed issue [#223](https://github.com/kommitters/editorjs-toggle-block/issues/223) in [kommitters/editorjs-toggle-block](https://github.com/kommitters/editorjs-toggle-block)
+1. ❗ Opened issue [#31](https://github.com/Caribe-Dev/caribe-page/issues/31) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+2. 💪 Opened PR [#30](https://github.com/Caribe-Dev/caribe-page/pull/30) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+3. 💪 Opened PR [#29](https://github.com/Caribe-Dev/caribe-page/pull/29) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+4. 💪 Opened PR [#28](https://github.com/Caribe-Dev/caribe-page/pull/28) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+5. 💪 Opened PR [#26](https://github.com/Caribe-Dev/caribe-page/pull/26) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
 <!--END_SECTION:activity-->
