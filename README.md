@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/Caribe-Dev/caribe-page/issues/31) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-2. 💪 Opened PR [#30](https://github.com/Caribe-Dev/caribe-page/pull/30) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-3. 💪 Opened PR [#29](https://github.com/Caribe-Dev/caribe-page/pull/29) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-4. 💪 Opened PR [#28](https://github.com/Caribe-Dev/caribe-page/pull/28) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-5. 💪 Opened PR [#26](https://github.com/Caribe-Dev/caribe-page/pull/26) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+1. 💪 Opened PR [#39](https://github.com/Caribe-Dev/caribe-page/pull/39) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+2. ❗ Opened issue [#31](https://github.com/Caribe-Dev/caribe-page/issues/31) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+3. 💪 Opened PR [#30](https://github.com/Caribe-Dev/caribe-page/pull/30) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+4. 💪 Opened PR [#29](https://github.com/Caribe-Dev/caribe-page/pull/29) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+5. 💪 Opened PR [#28](https://github.com/Caribe-Dev/caribe-page/pull/28) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
 <!--END_SECTION:activity-->
