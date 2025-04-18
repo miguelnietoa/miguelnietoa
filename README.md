@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/vscodethemes/web/pull/294#issuecomment-2807546037) in [vscodethemes/web](https://github.com/vscodethemes/web)
-2. 🗣 Commented on [#293](https://github.com/vscodethemes/web/issues/293#issuecomment-2800106116) in [vscodethemes/web](https://github.com/vscodethemes/web)
-3. 💪 Opened PR [#294](https://github.com/vscodethemes/web/pull/294) in [vscodethemes/web](https://github.com/vscodethemes/web)
-4. 💪 Opened PR [#1](https://github.com/vscodethemes/backend/pull/1) in [vscodethemes/backend](https://github.com/vscodethemes/backend)
-5. 🗣 Commented on [#293](https://github.com/vscodethemes/web/issues/293#issuecomment-2800100948) in [vscodethemes/web](https://github.com/vscodethemes/web)
+1. 🗣 Commented on [#287](https://github.com/kommitters/editorjs-undo/pull/287#issuecomment-2814130512) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
+2. 🗣 Commented on [#294](https://github.com/vscodethemes/web/pull/294#issuecomment-2807546037) in [vscodethemes/web](https://github.com/vscodethemes/web)
+3. 🗣 Commented on [#293](https://github.com/vscodethemes/web/issues/293#issuecomment-2800106116) in [vscodethemes/web](https://github.com/vscodethemes/web)
+4. 💪 Opened PR [#294](https://github.com/vscodethemes/web/pull/294) in [vscodethemes/web](https://github.com/vscodethemes/web)
+5. 💪 Opened PR [#1](https://github.com/vscodethemes/backend/pull/1) in [vscodethemes/backend](https://github.com/vscodethemes/backend)
 <!--END_SECTION:activity-->
