@@ -18,8 +18,8 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/algora-io/tv/issues/78#issuecomment-2825544034) in [algora-io/tv](https://github.com/algora-io/tv)
-2. 🗣 Commented on [#78](https://github.com/algora-io/tv/issues/78#issuecomment-2824657587) in [algora-io/tv](https://github.com/algora-io/tv)
+1. 🗣 Commented on [#1323](https://github.com/oban-bg/oban/issues/1323#issuecomment-3090676122) in [oban-bg/oban](https://github.com/oban-bg/oban)
+2. ❗ Opened issue [#1323](https://github.com/oban-bg/oban/issues/1323) in [oban-bg/oban](https://github.com/oban-bg/oban)
 3. 🗣 Commented on [#287](https://github.com/kommitters/editorjs-undo/pull/287#issuecomment-2814130512) in [kommitters/editorjs-undo](https://github.com/kommitters/editorjs-undo)
 4. 🗣 Commented on [#294](https://github.com/vscodethemes/web/pull/294#issuecomment-2807546037) in [vscodethemes/web](https://github.com/vscodethemes/web)
 5. 🗣 Commented on [#293](https://github.com/vscodethemes/web/issues/293#issuecomment-2800106116) in [vscodethemes/web](https://github.com/vscodethemes/web)
