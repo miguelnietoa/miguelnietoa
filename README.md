@@ -18,8 +18,8 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#4](undefined) in [INZPEKTOR/inzpektor-app](https://github.com/INZPEKTOR/inzpektor-app)
-2. 💪 Opened PR [#4](undefined) in [INZPEKTOR/inzpektor-app](https://github.com/INZPEKTOR/inzpektor-app)
+1. 🗣 Commented on [#2590](https://github.com/stellar/freighter/issues/2590#issuecomment-3882252408) in [stellar/freighter](https://github.com/stellar/freighter)
+2. 💪 Opened PR [#2592](https://github.com/stellar/freighter/pull/2592) in [stellar/freighter](https://github.com/stellar/freighter)
 3. ❌ Merged PR [#2](undefined) in [INZPEKTOR/inzpektor-app](https://github.com/INZPEKTOR/inzpektor-app)
 4. 💪 Opened PR [#2](undefined) in [INZPEKTOR/inzpektor-app](https://github.com/INZPEKTOR/inzpektor-app)
 5. ❌ Merged PR [#1](undefined) in [INZPEKTOR/inzpektor-app](https://github.com/INZPEKTOR/inzpektor-app)
