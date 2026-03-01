@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/salazarsebas/stellar-explorer/pull/3) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-2. 🗣 Commented on [#2592](https://github.com/stellar/freighter/pull/2592#issuecomment-3927953376) in [stellar/freighter](https://github.com/stellar/freighter)
-3. 🎉 Merged PR [#2592](https://github.com/stellar/freighter/pull/2592) in [stellar/freighter](https://github.com/stellar/freighter)
-4. 🗣 Commented on [#2590](https://github.com/stellar/freighter/issues/2590#issuecomment-3882252408) in [stellar/freighter](https://github.com/stellar/freighter)
-5. 💪 Opened PR [#2592](https://github.com/stellar/freighter/pull/2592) in [stellar/freighter](https://github.com/stellar/freighter)
+1. 🎉 Merged PR [#3](https://github.com/salazarsebas/stellar-explorer/pull/3) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+2. 💪 Opened PR [#3](https://github.com/salazarsebas/stellar-explorer/pull/3) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+3. 🗣 Commented on [#2592](https://github.com/stellar/freighter/pull/2592#issuecomment-3927953376) in [stellar/freighter](https://github.com/stellar/freighter)
+4. 🎉 Merged PR [#2592](https://github.com/stellar/freighter/pull/2592) in [stellar/freighter](https://github.com/stellar/freighter)
+5. 🗣 Commented on [#2590](https://github.com/stellar/freighter/issues/2590#issuecomment-3882252408) in [stellar/freighter](https://github.com/stellar/freighter)
 <!--END_SECTION:activity-->
