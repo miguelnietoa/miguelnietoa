@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5809](https://github.com/stellar/go-stellar-sdk/pull/5809#issuecomment-3988247730) in [stellar/go-stellar-sdk](https://github.com/stellar/go-stellar-sdk)
-2. 💪 Opened PR [#2290](https://github.com/stellar/stellar-docs/pull/2290) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
-3. 🎉 Merged PR [#3](https://github.com/salazarsebas/stellar-explorer/pull/3) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-4. 💪 Opened PR [#3](https://github.com/salazarsebas/stellar-explorer/pull/3) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-5. 🗣 Commented on [#2592](https://github.com/stellar/freighter/pull/2592#issuecomment-3927953376) in [stellar/freighter](https://github.com/stellar/freighter)
+1. 🎉 Merged PR [#5](https://github.com/salazarsebas/stellar-explorer/pull/5) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+2. 💪 Opened PR [#5](https://github.com/salazarsebas/stellar-explorer/pull/5) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+3. 🎉 Merged PR [#4](https://github.com/salazarsebas/stellar-explorer/pull/4) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+4. 💪 Opened PR [#4](https://github.com/salazarsebas/stellar-explorer/pull/4) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+5. 🗣 Commented on [#5809](https://github.com/stellar/go-stellar-sdk/pull/5809#issuecomment-3988247730) in [stellar/go-stellar-sdk](https://github.com/stellar/go-stellar-sdk)
 <!--END_SECTION:activity-->
