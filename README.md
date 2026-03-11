@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/Trustless-Work/tokenization-private-credit/pull/37) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-2. 🎉 Merged PR [#9](https://github.com/salazarsebas/stellar-explorer/pull/9) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-3. 💪 Opened PR [#9](https://github.com/salazarsebas/stellar-explorer/pull/9) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-4. 🎉 Merged PR [#8](https://github.com/salazarsebas/stellar-explorer/pull/8) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-5. 💪 Opened PR [#8](https://github.com/salazarsebas/stellar-explorer/pull/8) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+1. 🎉 Merged PR [#44](https://github.com/Trustless-Work/tokenization-private-credit/pull/44) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+2. 🎉 Merged PR [#37](https://github.com/Trustless-Work/tokenization-private-credit/pull/37) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+3. ❗ Opened issue [#45](https://github.com/Trustless-Work/tokenization-private-credit/issues/45) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+4. 🗣 Commented on [#44](https://github.com/Trustless-Work/tokenization-private-credit/pull/44#issuecomment-4040501289) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+5. 💪 Opened PR [#44](https://github.com/Trustless-Work/tokenization-private-credit/pull/44) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
 <!--END_SECTION:activity-->
