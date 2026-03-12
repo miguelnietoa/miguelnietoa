@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/Trustless-Work/tokenization-private-credit/pull/58) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-2. 💪 Opened PR [#58](https://github.com/Trustless-Work/tokenization-private-credit/pull/58) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-3. 🗣 Commented on [#40](https://github.com/Trustless-Work/tokenization-private-credit/issues/40#issuecomment-4042196603) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-4. 🎉 Merged PR [#51](https://github.com/Trustless-Work/tokenization-private-credit/pull/51) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-5. 💪 Opened PR [#51](https://github.com/Trustless-Work/tokenization-private-credit/pull/51) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+1. 🎉 Merged PR [#70](https://github.com/Trustless-Work/tokenization-private-credit/pull/70) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+2. 💪 Opened PR [#70](https://github.com/Trustless-Work/tokenization-private-credit/pull/70) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+3. ❗ Opened issue [#69](https://github.com/Trustless-Work/tokenization-private-credit/issues/69) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+4. 🎉 Merged PR [#58](https://github.com/Trustless-Work/tokenization-private-credit/pull/58) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+5. 💪 Opened PR [#58](https://github.com/Trustless-Work/tokenization-private-credit/pull/58) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
 <!--END_SECTION:activity-->
