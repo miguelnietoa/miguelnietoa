@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/Trustless-Work/tokenization-private-credit/pull/98) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-2. 💪 Opened PR [#98](https://github.com/Trustless-Work/tokenization-private-credit/pull/98) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-3. 🎉 Merged PR [#95](https://github.com/Trustless-Work/tokenization-private-credit/pull/95) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-4. 💪 Opened PR [#95](https://github.com/Trustless-Work/tokenization-private-credit/pull/95) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
-5. 🎉 Merged PR [#89](https://github.com/Trustless-Work/tokenization-private-credit/pull/89) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+1. 🗣 Commented on [#2290](https://github.com/stellar/stellar-docs/pull/2290#issuecomment-4069950737) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
+2. 🎉 Merged PR [#98](https://github.com/Trustless-Work/tokenization-private-credit/pull/98) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+3. 💪 Opened PR [#98](https://github.com/Trustless-Work/tokenization-private-credit/pull/98) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+4. 🎉 Merged PR [#95](https://github.com/Trustless-Work/tokenization-private-credit/pull/95) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+5. 💪 Opened PR [#95](https://github.com/Trustless-Work/tokenization-private-credit/pull/95) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
 <!--END_SECTION:activity-->
