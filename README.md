@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-2. ℹ️ Labeled issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-3. ❗ Opened issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-4. 🎉 Merged PR [#55](https://github.com/Caribe-Dev/caribe-page/pull/55) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-5. 🗣 Commented on [#55](https://github.com/Caribe-Dev/caribe-page/pull/55#issuecomment-4077720484) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+1. ℹ️ Labeled issue [#18](https://github.com/salazarsebas/stellar-explorer/issues/18) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+2. ❗ Opened issue [#18](https://github.com/salazarsebas/stellar-explorer/issues/18) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+3. ℹ️ Assigned issue [#18](https://github.com/salazarsebas/stellar-explorer/issues/18) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+4. ℹ️ Labeled issue [#17](https://github.com/salazarsebas/stellar-explorer/issues/17) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+5. ℹ️ Assigned issue [#17](https://github.com/salazarsebas/stellar-explorer/issues/17) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
 <!--END_SECTION:activity-->
