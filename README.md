@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Caribe-Dev/caribe-page/pull/55) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-2. 🗣 Commented on [#55](https://github.com/Caribe-Dev/caribe-page/pull/55#issuecomment-4077720484) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-3. 💪 Opened PR [#55](https://github.com/Caribe-Dev/caribe-page/pull/55) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
-4. 🗣 Commented on [#2290](https://github.com/stellar/stellar-docs/pull/2290#issuecomment-4069950737) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
-5. 🎉 Merged PR [#98](https://github.com/Trustless-Work/tokenization-private-credit/pull/98) in [Trustless-Work/tokenization-private-credit](https://github.com/Trustless-Work/tokenization-private-credit)
+1. ℹ️ Assigned issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+2. ℹ️ Labeled issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+3. ❗ Opened issue [#14](https://github.com/salazarsebas/stellar-explorer/issues/14) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+4. 🎉 Merged PR [#55](https://github.com/Caribe-Dev/caribe-page/pull/55) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
+5. 🗣 Commented on [#55](https://github.com/Caribe-Dev/caribe-page/pull/55#issuecomment-4077720484) in [Caribe-Dev/caribe-page](https://github.com/Caribe-Dev/caribe-page)
 <!--END_SECTION:activity-->
