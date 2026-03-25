@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/salazarsebas/Cougr/issues/66#issuecomment-4113598762) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
-2. 🗣 Commented on [#76](https://github.com/salazarsebas/Cougr/issues/76#issuecomment-4113532968) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
-3. 🎉 Merged PR [#23](https://github.com/salazarsebas/stellar-explorer/pull/23) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-4. 🔒 Closed issue [#22](https://github.com/salazarsebas/stellar-explorer/issues/22) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
-5. ℹ️ Assigned PR [#23](https://github.com/salazarsebas/stellar-explorer/pull/23) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+1. 🎉 Merged PR [#2290](https://github.com/stellar/stellar-docs/pull/2290) in [stellar/stellar-docs](https://github.com/stellar/stellar-docs)
+2. 🗣 Commented on [#66](https://github.com/salazarsebas/Cougr/issues/66#issuecomment-4113598762) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
+3. 🗣 Commented on [#76](https://github.com/salazarsebas/Cougr/issues/76#issuecomment-4113532968) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
+4. 🎉 Merged PR [#23](https://github.com/salazarsebas/stellar-explorer/pull/23) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
+5. 🔒 Closed issue [#22](https://github.com/salazarsebas/stellar-explorer/issues/22) in [salazarsebas/stellar-explorer](https://github.com/salazarsebas/stellar-explorer)
 <!--END_SECTION:activity-->
