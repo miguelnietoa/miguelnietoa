@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/miguelnietoa/bioalert-caribetech-hackathon/pull/9) in [miguelnietoa/bioalert-caribetech-hackathon](https://github.com/miguelnietoa/bioalert-caribetech-hackathon)
-2. 💪 Opened PR [#9](https://github.com/miguelnietoa/bioalert-caribetech-hackathon/pull/9) in [miguelnietoa/bioalert-caribetech-hackathon](https://github.com/miguelnietoa/bioalert-caribetech-hackathon)
-3. 🎉 Merged PR [#90](https://github.com/salazarsebas/Cougr/pull/90) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
-4. 💪 Opened PR [#90](https://github.com/salazarsebas/Cougr/pull/90) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
+1. 🎉 Merged PR [#4](https://github.com/hackaton-barranquiia/medi-agent/pull/4) in [hackaton-barranquiia/medi-agent](https://github.com/hackaton-barranquiia/medi-agent)
+2. 💪 Opened PR [#4](https://github.com/hackaton-barranquiia/medi-agent/pull/4) in [hackaton-barranquiia/medi-agent](https://github.com/hackaton-barranquiia/medi-agent)
+3. 🎉 Merged PR [#9](https://github.com/miguelnietoa/bioalert-caribetech-hackathon/pull/9) in [miguelnietoa/bioalert-caribetech-hackathon](https://github.com/miguelnietoa/bioalert-caribetech-hackathon)
+4. 💪 Opened PR [#9](https://github.com/miguelnietoa/bioalert-caribetech-hackathon/pull/9) in [miguelnietoa/bioalert-caribetech-hackathon](https://github.com/miguelnietoa/bioalert-caribetech-hackathon)
 5. 🎉 Merged PR [#88](https://github.com/salazarsebas/Cougr/pull/88) in [salazarsebas/Cougr](https://github.com/salazarsebas/Cougr)
 <!--END_SECTION:activity-->
