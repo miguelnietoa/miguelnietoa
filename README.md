@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/LumenWipe/lumenwipe/pull/6) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-2. 💪 Opened PR [#5](https://github.com/LumenWipe/lumenwipe/pull/5) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-3. 🎉 Merged PR [#4](https://github.com/LumenWipe/lumenwipe/pull/4) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-4. 💪 Opened PR [#4](https://github.com/LumenWipe/lumenwipe/pull/4) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-5. 🎉 Merged PR [#2](https://github.com/LumenWipe/lumenwipe/pull/2) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+1. 🎉 Merged PR [#7](https://github.com/LumenWipe/lumenwipe/pull/7) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+2. 💪 Opened PR [#7](https://github.com/LumenWipe/lumenwipe/pull/7) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+3. 🎉 Merged PR [#6](https://github.com/LumenWipe/lumenwipe/pull/6) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+4. 💪 Opened PR [#6](https://github.com/LumenWipe/lumenwipe/pull/6) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+5. 💪 Opened PR [#5](https://github.com/LumenWipe/lumenwipe/pull/5) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
 <!--END_SECTION:activity-->
