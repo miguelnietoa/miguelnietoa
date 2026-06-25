@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/StellarViewOrg/stellar-explorer/pull/34) in [StellarViewOrg/stellar-explorer](https://github.com/StellarViewOrg/stellar-explorer)
-2. 🎉 Merged PR [#34](https://github.com/LumenWipe/lumenwipe/pull/34) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-3. 🎉 Merged PR [#32](https://github.com/LumenWipe/lumenwipe/pull/32) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-4. 🎉 Merged PR [#31](https://github.com/LumenWipe/lumenwipe/pull/31) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-5. 🎉 Merged PR [#29](https://github.com/LumenWipe/lumenwipe/pull/29) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+1. 💪 Opened PR [#85](https://github.com/mercato-supply-chain/mercato-dapp/pull/85) in [mercato-supply-chain/mercato-dapp](https://github.com/mercato-supply-chain/mercato-dapp)
+2. 💪 Opened PR [#34](https://github.com/StellarViewOrg/stellar-explorer/pull/34) in [StellarViewOrg/stellar-explorer](https://github.com/StellarViewOrg/stellar-explorer)
+3. 🎉 Merged PR [#34](https://github.com/LumenWipe/lumenwipe/pull/34) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+4. 🎉 Merged PR [#32](https://github.com/LumenWipe/lumenwipe/pull/32) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+5. 🎉 Merged PR [#31](https://github.com/LumenWipe/lumenwipe/pull/31) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
 <!--END_SECTION:activity-->
