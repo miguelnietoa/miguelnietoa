@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/WritzProtocol/writz/issues/18#issuecomment-4848328222) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-2. 🔒 Closed issue [#18](https://github.com/WritzProtocol/writz/issues/18) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-3. 🎉 Merged PR [#35](https://github.com/WritzProtocol/writz/pull/35) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-4. 💪 Opened PR [#35](https://github.com/WritzProtocol/writz/pull/35) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-5. ❌ Closed PR [#32](https://github.com/WritzProtocol/writz/pull/32) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+1. 💪 Opened PR [#40](https://github.com/WritzProtocol/writz/pull/40) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+2. 🎉 Merged PR [#39](https://github.com/WritzProtocol/writz/pull/39) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+3. 💪 Opened PR [#39](https://github.com/WritzProtocol/writz/pull/39) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+4. ❌ Closed PR [#38](https://github.com/WritzProtocol/writz/pull/38) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+5. 🎉 Merged PR [#37](https://github.com/WritzProtocol/writz/pull/37) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
 <!--END_SECTION:activity-->
