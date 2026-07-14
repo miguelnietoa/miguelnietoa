@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#357](https://github.com/stellar/dashboard/pull/357) in [stellar/dashboard](https://github.com/stellar/dashboard)
-2. 🔒 Closed issue [#14](https://github.com/WritzProtocol/writz/issues/14) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-3. 🎉 Merged PR [#40](https://github.com/WritzProtocol/writz/pull/40) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-4. 💪 Opened PR [#40](https://github.com/WritzProtocol/writz/pull/40) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-5. 🎉 Merged PR [#39](https://github.com/WritzProtocol/writz/pull/39) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+1. 🎉 Merged PR [#1](https://github.com/StellarViewOrg/.github/pull/1) in [StellarViewOrg/.github](https://github.com/StellarViewOrg/.github)
+2. 🎉 Merged PR [#1](https://github.com/StellarViewOrg/stellarview-docs/pull/1) in [StellarViewOrg/stellarview-docs](https://github.com/StellarViewOrg/stellarview-docs)
+3. 🎉 Merged PR [#1](https://github.com/StellarViewOrg/stellarview-tui/pull/1) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
+4. 🎉 Merged PR [#1](https://github.com/StellarViewOrg/stellarview-indexer/pull/1) in [StellarViewOrg/stellarview-indexer](https://github.com/StellarViewOrg/stellarview-indexer)
+5. 🎉 Merged PR [#38](https://github.com/StellarViewOrg/stellarview-explorer/pull/38) in [StellarViewOrg/stellarview-explorer](https://github.com/StellarViewOrg/stellarview-explorer)
 <!--END_SECTION:activity-->
