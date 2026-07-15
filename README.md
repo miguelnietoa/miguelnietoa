@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/StellarViewOrg/stellarview-tui/pull/3) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
-2. 💪 Opened PR [#3](https://github.com/StellarViewOrg/stellarview-tui/pull/3) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
-3. 🎉 Merged PR [#2](https://github.com/StellarViewOrg/stellarview-tui/pull/2) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
-4. 🎉 Merged PR [#2](https://github.com/StellarViewOrg/stellarview-indexer/pull/2) in [StellarViewOrg/stellarview-indexer](https://github.com/StellarViewOrg/stellarview-indexer)
-5. 💪 Opened PR [#2](https://github.com/StellarViewOrg/stellarview-tui/pull/2) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
+1. 🎉 Merged PR [#17](https://github.com/StellarViewOrg/stellarview-indexer/pull/17) in [StellarViewOrg/stellarview-indexer](https://github.com/StellarViewOrg/stellarview-indexer)
+2. 💪 Opened PR [#17](https://github.com/StellarViewOrg/stellarview-indexer/pull/17) in [StellarViewOrg/stellarview-indexer](https://github.com/StellarViewOrg/stellarview-indexer)
+3. ℹ️ Labeled issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
+4. ℹ️ Labeled issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
+5. ❗ Opened issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
 <!--END_SECTION:activity-->
