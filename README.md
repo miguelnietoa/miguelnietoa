@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
-2. 💪 Opened PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
-3. ℹ️ Labeled issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
-4. ℹ️ Labeled issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
-5. ❗ Opened issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
+1. 🎉 Merged PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+2. 💪 Opened PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+3. 🎉 Merged PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
+4. 💪 Opened PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
+5. ℹ️ Labeled issue [#6](https://github.com/StellarViewOrg/stellarview-tui/issues/6) in [StellarViewOrg/stellarview-tui](https://github.com/StellarViewOrg/stellarview-tui)
 <!--END_SECTION:activity-->
