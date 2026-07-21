@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/soroswap/sdk/pull/10) in [soroswap/sdk](https://github.com/soroswap/sdk)
-2. 🎉 Merged PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-3. 💪 Opened PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-4. 🎉 Merged PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
-5. 💪 Opened PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
+1. 🔒 Closed issue [#10](https://github.com/StellarViewOrg/indexer/issues/10) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
+2. 🎉 Merged PR [#10](https://github.com/soroswap/sdk/pull/10) in [soroswap/sdk](https://github.com/soroswap/sdk)
+3. 🎉 Merged PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+4. 💪 Opened PR [#47](https://github.com/WritzProtocol/writz/pull/47) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
+5. 🎉 Merged PR [#17](https://github.com/StellarViewOrg/indexer/pull/17) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
 <!--END_SECTION:activity-->
