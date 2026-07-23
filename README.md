@@ -18,9 +18,9 @@ I believe in the power of open source to foster innovation and collaboration. I 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/LumenWipe/lumenwipe/pull/40) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-2. 💪 Opened PR [#40](https://github.com/LumenWipe/lumenwipe/pull/40) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
-3. ❌ Closed PR [#46](https://github.com/WritzProtocol/writz/pull/46) in [WritzProtocol/writz](https://github.com/WritzProtocol/writz)
-4. 🗣 Commented on [#23](https://github.com/StellarViewOrg/indexer/pull/23#issuecomment-5040239636) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
-5. 🔒 Closed issue [#10](https://github.com/StellarViewOrg/indexer/issues/10) in [StellarViewOrg/indexer](https://github.com/StellarViewOrg/indexer)
+1. 💪 Opened PR [#53](https://github.com/LumenWipe/lumenwipe/pull/53) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+2. 🎉 Merged PR [#52](https://github.com/LumenWipe/lumenwipe/pull/52) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+3. 🔒 Closed issue [#42](https://github.com/LumenWipe/lumenwipe/issues/42) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+4. 💪 Opened PR [#52](https://github.com/LumenWipe/lumenwipe/pull/52) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
+5. ℹ️ Assigned issue [#51](https://github.com/LumenWipe/lumenwipe/issues/51) in [LumenWipe/lumenwipe](https://github.com/LumenWipe/lumenwipe)
 <!--END_SECTION:activity-->
